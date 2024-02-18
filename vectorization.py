@@ -37,8 +37,8 @@ for i in range(len(df['abstract'])):
     summed_encoding = torch.zeros_like(encode_list[0])  # Initialize a tensor for summing
     for encoding in encode_list:
         summed_encoding += encoding
-
-    embedded_abstracts.append(summed_encoding)
+    normalised = summed_encoding/len(encode_list)
+    embedded_abstracts.append(normalised)
 
 
 appended_tensor = torch.stack(embedded_abstracts, dim=0)
