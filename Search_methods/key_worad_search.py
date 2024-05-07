@@ -5,7 +5,7 @@ import string
 import csv
 
 
-# with open('/Users/artashesmezhlumyan/Desktop/capstone/RAG_for_papers/db/arxiv_metadata.csv', 'r') as file:
+# with open('arxiv_metadata.csv', 'r') as file:
 #     csv_reader = csv.DictReader(file)
 #     papers = [row for row in csv_reader]
 # #print(papers)
@@ -36,42 +36,32 @@ sample_papers = [
 
 
 
-# Preprocessing function
+
 def preprocess(text):
-    # Tokenize
     tokens = word_tokenize(text)
-    # Remove punctuation
     tokens = [word for word in tokens if word not in string.punctuation]
-    # Lowercase
     tokens = [word.lower() for word in tokens]
-    # Remove stopwords
     stop_words = set(stopwords.words('english'))
     tokens = [word for word in tokens if word not in stop_words]
-    # Stemming
     stemmer = PorterStemmer()
     tokens = [stemmer.stem(word) for word in tokens]
     return tokens
 
-# Keyword search function
+
 def keyword_search(query, papers):
     query_tokens = set(preprocess(query))
     results = []
     for paper in papers:
         title_tokens = set(preprocess(paper['title']))
         abstract_tokens = set(preprocess(paper['abstract']))
-        # Combine title and abstract tokens for broader search
         combined_tokens = title_tokens.union(abstract_tokens)
         matches = query_tokens.intersection(combined_tokens)
         if matches:
-            # Add the whole paper for now; adjust as needed
             results.append(paper)
-    # Could sort results based on relevance here, if desired
     return results
 
-# Example query
-query = "deeplearning in NLP"
 
-# Perform keyword search
+query = "deeplearning in NLP"
 matching_papers = keyword_search(query, sample_papers)
 
 print("Matching papers:")

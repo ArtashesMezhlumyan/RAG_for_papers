@@ -1,0 +1,1472 @@
+question,abstract,id,cohere_answer,info_density_answer,info_density_abstract,subject_proportion_answer,subject_proportion_abstract,ner_proportion_answer,ner_proportion_abstract
+"What is the level of agreement between the fully differential calculation in perturbative quantum chromodynamics for the production of massive photon pairs and data from the Fermilab Tevatron, and what predictions are made for more detailed tests with CDF and DO data?","  A fully differential calculation in perturbative quantum chromodynamics is
+presented for the production of massive photon pairs at hadron colliders. All
+next-to-leading order perturbative contributions from quark-antiquark,
+gluon-(anti)quark, and gluon-gluon subprocesses are included, as well as
+all-orders resummation of initial-state gluon radiation valid at
+next-to-next-to-leading logarithmic accuracy. The region of phase space is
+specified in which the calculation is most reliable. Good agreement is
+demonstrated with data from the Fermilab Tevatron, and predictions are made for
+more detailed tests with CDF and DO data. Predictions are shown for
+distributions of diphoton pairs produced at the energy of the Large Hadron
+Collider (LHC). Distributions of the diphoton pairs from the decay of a Higgs
+boson are contrasted with those produced from QCD processes at the LHC, showing
+that enhanced sensitivity to the signal can be obtained with judicious
+selection of events.
+",0704.0001,"I'm sorry, but the provided text does not contain any information regarding the level of agreement between the fully differential calculation in perturbative quantum chromodynamics for the production of massive photon pairs and data from the Fermilab Tevatron, nor does it make any predictions for more detailed tests with CDF and DO data.",0.26,0.67,0.05660377358490566,0.0738255033557047,0.03773584905660377,0.03355704697986577
+"How do the colored pebbles in the $(k,\ell)$-pebble game algorithm contribute to characterizing sparse graphs and solving tree decomposition problems?","  We describe a new algorithm, the $(k,\ell)$-pebble game with colors, and use
+it obtain a characterization of the family of $(k,\ell)$-sparse graphs and
+algorithmic solutions to a family of problems concerning tree decompositions of
+graphs. Special instances of sparse graphs appear in rigidity theory and have
+received increased attention in recent years. In particular, our colored
+pebbles generalize and strengthen the previous results of Lee and Streinu and
+give a new proof of the Tutte-Nash-Williams characterization of arboricity. We
+also present a new decomposition that certifies sparsity based on the
+$(k,\ell)$-pebble game with colors. Our work also exposes connections between
+pebble game algorithms and previous sparse graph algorithms by Gabow, Gabow and
+Westermann and Hendrickson.
+",0704.0002,"The $(k,\ell)$-pebble game with colors is a graph construction rule that produces a sparse graph along with a sparsity-certifying decomposition. In this game, played on a finite set of vertices, each edge is assigned a color by placing colored pebbles on the vertices and edges. This coloring partitions the graph into $k$ different colors. 
+
+The main result of the paper is Theorem 1, which states that a graph $G$ is $(k,\ell)$-sparse if and only if it is a pebble-game graph. This means that sparse graphs and pebble-game graphs are equivalent. 
+
+The $(k,\ell)$-pebble game with colors provides a new characterization of sparse graphs and offers a simple construction rule to generate them. The colors of the pebbles help identify monochromatic paths and ensure certain invariants, such as forcing these paths to end at vertices with pebbles of the same color. This leads to the sparsity of the constructed graphs, as shown in Lemma 8. 
+
+Additionally, the paper discusses the connection between pebble-game decompositions and tree decompositions. Pebble-game decompositions are a strengthening of the pebble games to include colors, and they play a crucial role in certifying sparsity. Tree decompositions are a way to break down a graph into simpler structures, providing a hierarchical representation of the graph's connectivity. The pebble-game decompositions provide insights into understanding and solving tree decomposition problems for sparse graphs.",0.8,0.55,0.06334841628959276,0.05263157894736842,0.013574660633484163,0.05263157894736842
+"What evidence supports the dark matter field fluid model for the evolution of the Earth-Moon system, and how does it differ from the traditional theory of tidal friction?","  The evolution of Earth-Moon system is described by the dark matter field
+fluid model proposed in the Meeting of Division of Particle and Field 2004,
+American Physical Society. The current behavior of the Earth-Moon system agrees
+with this model very well and the general pattern of the evolution of the
+Moon-Earth system described by this model agrees with geological and fossil
+evidence. The closest distance of the Moon to Earth was about 259000 km at 4.5
+billion years ago, which is far beyond the Roche's limit. The result suggests
+that the tidal friction may not be the primary cause for the evolution of the
+Earth-Moon system. The average dark matter field fluid constant derived from
+Earth-Moon system data is 4.39 x 10^(-22) s^(-1)m^(-1). This model predicts
+that the Mars's rotation is also slowing with the angular acceleration rate
+about -4.38 x 10^(-22) rad s^(-2).
+",0704.0003,"The dark matter field fluid model is supported by the current behavior and data of the Earth-Moon system, with the model's predicted pattern of evolution aligning closely with geological and fossil evidence. This includes the closest distance of the Moon to Earth 4.5 billion years ago, which was about 259,000 km—well beyond the Roche's limit. This distance suggests that tidal friction may not be the primary driver of the Earth-Moon system's evolution. 
+
+In contrast, the traditional theory of tidal friction proposes that the Moon formed from the debris of a giant impact with the Earth during the planet-forming period. This theory suggests that the Moon was once much closer to the Earth and has been receding over time due to the conservation of angular momentum in the system. The tidal friction theories also explain the present rate of tidal dissipation by invoking a resonance in the response function of the ocean. 
+
+The dark matter field fluid model, on the other hand, is a non-Newtonian approach that does not rely on assumptions about past geological or physical conditions. It predicts that the dragging force exerted on the Moon's orbital motion by the dark matter field fluid is negligible compared to the gravitational force between the Moon and the Earth. This model also provides a value for the average dark matter field fluid constant derived from Earth-Moon system data.",0.84,0.58,0.05194805194805195,0.07142857142857142,0.025974025974025976,0.07857142857142857
+What is the significance of the sign-reversing involution in evaluating the determinant of Stirling cycle numbers for unlabeled acyclic single-source automata?,"  We show that a determinant of Stirling cycle numbers counts unlabeled acyclic
+single-source automata. The proof involves a bijection from these automata to
+certain marked lattice paths and a sign-reversing involution to evaluate the
+determinant.
+",0704.0004,"The sign-reversing involution is a crucial step in evaluating the determinant of Stirling cycle numbers for unlabeled acyclic single-source automata. It helps to simplify the determinant calculation by canceling out the negative weights (-1) in the sum of signed products that defines the determinant. This involution plays a key role in showing that the determinant counts the codes for column-marked subdiagonal paths, which are used to represent these automata.",0.31,0.18,0.07042253521126761,0.08108108108108109,0.014084507042253521,0.02702702702702703
+How does the use of the dyadic grid help in computing the $\Lambda_{\alpha}$ norm for $\alpha\ge 0$?,"  In this paper we show how to compute the $\Lambda_{\alpha}$ norm, $\alpha\ge
+0$, using the dyadic grid. This result is a consequence of the description of
+the Hardy spaces $H^p(R^N)$ in terms of dyadic and special atoms.
+",0704.0005,"The dyadic grid is used to compute the $\Lambda_{\alpha}$ norm for $\alpha\ge 0$ by describing the Hardy spaces $H_p(RN)$ in terms of dyadic and special atoms. This result is a consequence of the relationship between the dyadic grid and the description of $H_p(RN)$, allowing for an alternative approach to calculating the norm.",0.2,0.15,0.0425531914893617,0.06060606060606061,0.0851063829787234,0.12121212121212122
+What is the significance of the correction of the Bose enhancement factor in the study of paired atoms in a Fermi gas with tunable interaction strengths controlled by Feshbach resonance?,"  We study the two-particle wave function of paired atoms in a Fermi gas with
+tunable interaction strengths controlled by Feshbach resonance. The Cooper pair
+wave function is examined for its bosonic characters, which is quantified by
+the correction of Bose enhancement factor associated with the creation and
+annihilation composite particle operators. An example is given for a
+three-dimensional uniform gas. Two definitions of Cooper pair wave function are
+examined. One of which is chosen to reflect the off-diagonal long range order
+(ODLRO). Another one corresponds to a pair projection of a BCS state. On the
+side with negative scattering length, we found that paired atoms described by
+ODLRO are more bosonic than the pair projected definition. It is also found
+that at $(k_F a)^{-1} \ge 1$, both definitions give similar results, where more
+than 90% of the atoms occupy the corresponding molecular condensates.
+",0704.0006,"The correction of the Bose enhancement factor is significant in understanding the behavior of paired atoms in a Fermi gas with tunable interaction strengths controlled by Feshbach resonance. This correction factor accounts for the deviation of the gas from ideal bosonic behavior when pairs of atoms are added or removed. By examining the ratio χM+1/χM, where χM is the normalization factor, researchers can quantify the bosonic character of the paired atoms. This ratio serves as an indicator of how closely the system behaves like an ideal boson, with a value of 1 indicating perfect bosonic behavior. Deviations from this ideal value provide insights into the statistics and behavior of interacting fermionic atoms within the gas.",0.48,0.63,0.07017543859649122,0.07801418439716312,0.043859649122807015,0.0851063829787234
+"How does the polymer representation of quantum mechanics, particularly in loop quantum cosmology, relate to the ordinary Schroedinger theory and what implications does this have for understanding Planck scale physics?","  A rather non-standard quantum representation of the canonical commutation
+relations of quantum mechanics systems, known as the polymer representation has
+gained some attention in recent years, due to its possible relation with Planck
+scale physics. In particular, this approach has been followed in a symmetric
+sector of loop quantum gravity known as loop quantum cosmology. Here we explore
+different aspects of the relation between the ordinary Schroedinger theory and
+the polymer description. The paper has two parts. In the first one, we derive
+the polymer quantum mechanics starting from the ordinary Schroedinger theory
+and show that the polymer description arises as an appropriate limit. In the
+second part we consider the continuum limit of this theory, namely, the reverse
+process in which one starts from the discrete theory and tries to recover back
+the ordinary Schroedinger quantum mechanics. We consider several examples of
+interest, including the harmonic oscillator, the free particle and a simple
+cosmological model.
+",0704.0007,"The paper explores the relationship between the ordinary Schrödinger theory and the polymer description in loop quantum cosmology, a symmetric sector of loop quantum gravity. The polymer representation is a non-standard and ""exotic"" representation of the canonical commutation relations of quantum mechanics systems. 
+
+In the first part of the paper, the authors derive polymer quantum mechanics from the ordinary Schrödinger theory, showing that the polymer description arises as an appropriate limit. This involves considering a specific reformulation of the ordinary Schrödinger representation. 
+
+The implications for understanding Planck scale physics are discussed in the context of loop quantum cosmology. The polymer description could provide a true physical bound on the value of certain quantities if loop quantum cosmology is a correct description of quantum gravity. This is because there is a minimum value for physical volume in loop quantum cosmology, and phase space points near the singularity lie in a region where the approximation induced by the scale departs from the standard classical description. 
+
+Overall, the paper provides insights into the relationship between the polymer representation and ordinary Schrödinger theory, and highlights potential implications for our understanding of Planck scale physics in the context of loop quantum cosmology.",0.68,0.69,0.04040404040404041,0.044585987261146494,0.020202020202020204,0.044585987261146494
+What are the advantages of using the developed numerical methods for calculating response to shock and ramp compression in material dynamics experiments compared to spatially-resolving simulations?,"  A general formulation was developed to represent material models for
+applications in dynamic loading. Numerical methods were devised to calculate
+response to shock and ramp compression, and ramp decompression, generalizing
+previous solutions for scalar equations of state. The numerical methods were
+found to be flexible and robust, and matched analytic results to a high
+accuracy. The basic ramp and shock solution methods were coupled to solve for
+composite deformation paths, such as shock-induced impacts, and shock
+interactions with a planar interface between different materials. These
+calculations capture much of the physics of typical material dynamics
+experiments, without requiring spatially-resolving simulations. Example
+calculations were made of loading histories in metals, illustrating the effects
+of plastic work on the temperatures induced in quasi-isentropic and
+shock-release experiments, and the effect of a phase transition.
+",0704.0008,"The developed numerical methods for calculating the response to shock and ramp compression in material dynamics experiments offer several advantages over spatially-resolved simulations. 
+
+Firstly, they provide a flexible and robust approach that can be applied to materials with varying properties. This method generalizes earlier solutions for scalar equations of state, making it applicable to a broader range of materials. 
+
+Secondly, these numerical methods achieve high accuracy, matching analytic results closely. They can accurately capture the physics of typical materials, including complex solids with strength and phase transformations. 
+
+Additionally, the basic ramp and shock solution methods can be coupled to solve for composite deformation paths, such as shock-induced impacts and interactions with planar interfaces between different materials. This allows for a more comprehensive understanding of the material's response to dynamic loading. 
+
+By directly evaluating the thermodynamic pathways during compression, these numerical methods avoid the need for spatially-resolved simulations, simplifying the calculation process while maintaining accuracy.",0.81,0.69,0.050955414012738856,0.037037037037037035,0.012738853503184714,0.0
+What criteria were used to isolate bona fide young stellar objects (YSOs) from background contamination by extra-galactic objects in the Serpens star-forming region?,"  We discuss the results from the combined IRAC and MIPS c2d Spitzer Legacy
+observations of the Serpens star-forming region. In particular we present a set
+of criteria for isolating bona fide young stellar objects, YSO's, from the
+extensive background contamination by extra-galactic objects. We then discuss
+the properties of the resulting high confidence set of YSO's. We find 235 such
+objects in the 0.85 deg^2 field that was covered with both IRAC and MIPS. An
+additional set of 51 lower confidence YSO's outside this area is identified
+from the MIPS data combined with 2MASS photometry. We describe two sets of
+results, color-color diagrams to compare our observed source properties with
+those of theoretical models for star/disk/envelope systems and our own modeling
+of the subset of our objects that appear to be star+disks. These objects
+exhibit a very wide range of disk properties, from many that can be fit with
+actively accreting disks to some with both passive disks and even possibly
+debris disks. We find that the luminosity function of YSO's in Serpens extends
+down to at least a few x .001 Lsun or lower for an assumed distance of 260 pc.
+The lower limit may be set by our inability to distinguish YSO's from
+extra-galactic sources more than by the lack of YSO's at very low luminosities.
+A spatial clustering analysis shows that the nominally less-evolved YSO's are
+more highly clustered than the later stages and that the background
+extra-galactic population can be fit by the same two-point correlation function
+as seen in other extra-galactic studies. We also present a table of matches
+between several previous infrared and X-ray studies of the Serpens YSO
+population and our Spitzer data set.
+",0704.0009,"The authors used a combination of infrared and X-ray data to identify young stellar objects (YSOs) in the Serpens star-forming region. They also compared their findings with previous studies that used infrared and X-ray observations to identify YSOs. Additionally, they considered the spatial distribution of YSOs and the extinction characteristics of the region to distinguish YSOs from background extra-galactic objects.",0.26,1.0,0.0625,0.0353356890459364,0.015625,0.045936395759717315
+What are the new characterizations and proofs of known results regarding bipartite graphs and partial cubes of arbitrary dimension in the theory of partial cubes?,"  Partial cubes are isometric subgraphs of hypercubes. Structures on a graph
+defined by means of semicubes, and Djokovi\'{c}'s and Winkler's relations play
+an important role in the theory of partial cubes. These structures are employed
+in the paper to characterize bipartite graphs and partial cubes of arbitrary
+dimension. New characterizations are established and new proofs of some known
+results are given.
+  The operations of Cartesian product and pasting, and expansion and
+contraction processes are utilized in the paper to construct new partial cubes
+from old ones. In particular, the isometric and lattice dimensions of finite
+partial cubes obtained by means of these operations are calculated.
+",0704.0010,"The paper presents new characterizations and proofs for known results regarding bipartite graphs and partial cubes. Specifically:
+
+- It is shown that a graph is a partial cube if and only if it is embeddable in an integer lattice.
+- The lattice dimension of a partial cube is related to maximum matchings in semicube graphs.
+- The isometric dimension of a partial cube is equal to the cardinality of equivalence classes of Djoković's relation.
+- A geometric property of families Fab is used to characterize partial cubes.
+- The paper also includes a characterization of partial cubes in terms of semicubes, and Djoković's and Winkler's relations.",0.44,0.51,0.0594059405940594,0.08653846153846154,0.0297029702970297,0.019230769230769232
+What is the significance of identifying Hilbert-Siegel eigenforms that are possible lifts from Hilbert eigenforms in the context of computing Hecke eigensystems over real quadratic fields of narrow class number one?,"  In this paper we present an algorithm for computing Hecke eigensystems of
+Hilbert-Siegel cusp forms over real quadratic fields of narrow class number
+one. We give some illustrative examples using the quadratic field
+$\Q(\sqrt{5})$. In those examples, we identify Hilbert-Siegel eigenforms that
+are possible lifts from Hilbert eigenforms.
+",0704.0011,"The identification of Hilbert-Siegel eigenforms that are possible lifts from Hilbert eigenforms is significant because it allows for the computation of Hecke eigensystems over real quadratic fields with a narrow class number of one. By comparing the Hecke eigenvalues for specific primes, researchers can determine whether the forms they obtained are probable lifts of Hilbert cusp forms. This process involves examining the systems of Hecke eigenvalues of Hilbert-Siegel cusp forms over these quadratic fields.",0.32,0.25,0.09210526315789473,0.061224489795918366,0.05263157894736842,0.08163265306122448
+What distribution properties are derived for modulo primes $p\geq5$ of traces of singular moduli and Hurwitz class number in the context of modular forms of half integral weight?,"  Recently, Bruinier and Ono classified cusp forms $f(z) := \sum_{n=0}^{\infty}
+a_f(n)q ^n \in S_{\lambda+1/2}(\Gamma_0(N),\chi)\cap \mathbb{Z}[[q]]$ that does
+not satisfy a certain distribution property for modulo odd primes $p$. In this
+paper, using Rankin-Cohen Bracket, we extend this result to modular forms of
+half integral weight for primes $p \geq 5$. As applications of our main theorem
+we derive distribution properties, for modulo primes $p\geq5$, of traces of
+singular moduli and Hurwitz class number. We also study an analogue of Newman's
+conjecture for overpartitions.
+",0704.0012,"The distribution properties derived for modulo primes $p \geq 5$ of traces of singular moduli and Hurwitz class numbers in the context of modular forms of half-integral weight are as follows: 
+
+- The distribution of the Hurwitz class number modulo primes $p \geq 5$ is given by the formula $\# \{n \leq X \mid H(n) \equiv r \, (\text{mod } p) \} \asymp \sqrt{X} \log X$ for $r \not\equiv 0 \, (\text{mod } p)$ and $\# \{n \leq X \mid H(n) \equiv 0 \, (\text{mod } p) \} \asymp \sqrt{X}$. 
+
+- The distribution of traces of singular moduli modulo primes is studied, and it is shown that a positive proportion of the primes $\ell$ has the property that $t_\ell(n) \not\equiv 0 \, (\text{mod } p)$ for every integer $n$. 
+
+These results provide insights into the arithmetic properties of modular forms and their connections with number theory.",0.38,0.45,0.08080808080808081,0.08333333333333333,0.09090909090909091,0.1111111111111111
+What are the applications of the congruences of Fourier coefficients of Siegel modular forms on Maass Space obtained using Ikeda lifting?,"  Serre obtained the p-adic limit of the integral Fourier coefficient of
+modular forms on $SL_2(\mathbb{Z})$ for $p=2,3,5,7$. In this paper, we extend
+the result of Serre to weakly holomorphic modular forms of half integral weight
+on $\Gamma_{0}(4N)$ for $N=1,2,4$. A proof is based on linear relations among
+Fourier coefficients of modular forms of half integral weight. As applications
+we obtain congruences of Borcherds exponents, congruences of quotient of
+Eisentein series and congruences of values of $L$-functions at a certain point
+are also studied. Furthermore, the congruences of the Fourier coefficients of
+Siegel modular forms on Maass Space are obtained using Ikeda lifting.
+",0704.0013,"The applications of the congruences of Fourier coefficients of Siegel modular forms on Maass Space obtained using Ikeda lifting include:
+
+- Congruences for the Fourier coefficients of a Siegel modular form in the Maass space.
+- A proof that the Maass space is the same as the image of the Ikeda lifting for g ≡ 0, 1 (mod 4).
+- Derivation of congruences for the Fourier coefficients of F (Z) in SM aass ≡ (Γ2g).",0.26,0.43,0.029850746268656716,0.05102040816326531,0.14925373134328357,0.11224489795918367
+What is the significance of the relation between string topology and differential forms in the context of Chen's iterated integrals and the cyclic bar complex?,"  In this article we discuss a relation between the string topology and
+differential forms based on the theory of Chen's iterated integrals and the
+cyclic bar complex.
+",0704.0014,"The relation between string topology and differential forms is significant in the context of Chen's iterated integrals and the cyclic bar complex. Chen showed that the cohomology of the free loop space of a simply-connected manifold is isomorphic to the cohomology of the cyclic bar complex of differential forms via Chen's iterated integrals. This provides a model for the loop product and allows for the study of iterated integrals on the free loop space, which is important in string topology.",0.27,0.15,0.06172839506172839,0.037037037037037035,0.012345679012345678,0.037037037037037035
+What are the different methods explored in this paper to evaluate the integrals in pure spinor superspace for the calculation of kinematic factors in one-loop and two-loop massless four-point amplitudes involving Ramond states?,"  The pure spinor formulation of the ten-dimensional superstring leads to
+manifestly supersymmetric loop amplitudes, expressed as integrals in pure
+spinor superspace. This paper explores different methods to evaluate these
+integrals and then uses them to calculate the kinematic factors of the one-loop
+and two-loop massless four-point amplitudes involving two and four Ramond
+states.
+",0704.0015,"The paper explores different methods to evaluate integrals in pure spinor superspace and calculate kinematic factors for one-loop and two-loop massless four-point amplitudes involving Ramond states. The methods are applied to explicitly calculate the kinematic factors, and the paper also reviews the bosonic calculations for both one-loop and two-loop levels. The paper emphasizes the practical aspect of supersymmetric pure spinor amplitudes and their utility in constructing effective actions.",0.32,0.27,0.0273972602739726,0.017543859649122806,0.0410958904109589,0.07017543859649122
+"What are the theoretical predictions for the lifetimes of the doubly charmed baryons $\Xi_{cc}^{+}$, $\Xi_{cc}^{++}$ and $\Omega_{cc}^{+}, and how do they compare to the upper limit set by the recent SELEX measurement?","  In this work, we evaluate the lifetimes of the doubly charmed baryons
+$\Xi_{cc}^{+}$, $\Xi_{cc}^{++}$ and $\Omega_{cc}^{+}$. We carefully calculate
+the non-spectator contributions at the quark level where the Cabibbo-suppressed
+diagrams are also included. The hadronic matrix elements are evaluated in the
+simple non-relativistic harmonic oscillator model. Our numerical results are
+generally consistent with that obtained by other authors who used the diquark
+model. However, all the theoretical predictions on the lifetimes are one order
+larger than the upper limit set by the recent SELEX measurement. This
+discrepancy would be clarified by the future experiment, if more accurate
+experiment still confirms the value of the SELEX collaboration, there must be
+some unknown mechanism to be explored.
+",0704.0016,"Theoretical predictions for the lifetimes of the doubly charmed baryons $\Xi_{cc}^{+}$, $\Xi_{cc}^{++}$, and $\Omega_{cc}^{+}$ are generally consistent with those obtained using the diquark model by other authors. However, these predictions are an order of magnitude larger than the upper limit set by the recent SELEX measurement, indicating a potential discrepancy that could be clarified by future experiments. If future measurements continue to confirm the SELEX value, it may suggest the presence of unknown mechanisms that require further exploration.",0.42,0.57,0.06666666666666667,0.0782608695652174,0.02666666666666667,0.017391304347826087
+What evidence was found in the spectroscopic observations of EX Hya to support the theoretical model predictions of large accretion curtains extending close to the Roche lobe radius in the system?,"  Results from spectroscopic observations of the Intermediate Polar (IP) EX Hya
+in quiescence during 1991 and 2001 are presented. Spin-modulated radial
+velocities consistent with an outer disc origin were detected for the first
+time in an IP. The spin pulsation was modulated with velocities near ~500-600
+km/s. These velocities are consistent with those of material circulating at the
+outer edge of the accretion disc, suggesting corotation of the accretion
+curtain with material near the Roche lobe radius. Furthermore, spin Doppler
+tomograms have revealed evidence of the accretion curtain emission extending
+from velocities of ~500 km/s to ~1000 km/s. These findings have confirmed the
+theoretical model predictions of King & Wynn (1999), Belle et al. (2002) and
+Norton et al. (2004) for EX Hya, which predict large accretion curtains that
+extend to a distance close to the Roche lobe radius in this system. Evidence
+for overflow stream of material falling onto the magnetosphere was observed,
+confirming the result of Belle et al. (2005) that disc overflow in EX Hya is
+present during quiescence as well as outburst. It appears that the hbeta and
+hgamma spin radial velocities originated from the rotation of the funnel at the
+outer disc edge, while those of halpha were produced due to the flow of
+material along the field lines far from the white dwarf (narrow component) and
+close to the white dwarf (broad-base component), in agreement with the
+accretion curtain model.
+",0704.0017,"The spectroscopic observations of EX Hya revealed spin Doppler tomograms with velocities ranging from ∼ 500 km s−1 to ∼ 1000 km s−1, indicating the presence of large accretion curtains extending close to the Roche lobe radius.",0.21,0.89,0.0,0.05240174672489083,0.16129032258064516,0.06986899563318777
+What is the significance of formulating the problem of computing the dimension of the moduli space of self-dual strings as an index problem in even-dimensional (loop-)space?,"  We give a prescription for how to compute the Callias index, using as
+regulator an exponential function. We find agreement with old results in all
+odd dimensions. We show that the problem of computing the dimension of the
+moduli space of self-dual strings can be formulated as an index problem in
+even-dimensional (loop-)space. We think that the regulator used in this Letter
+can be applied to this index problem.
+",0704.0018,"The significance of formulating the problem as an index problem in even-dimensional (loop-)space is that it allows for the use of a regulator, which can be applied to compute the dimension of the moduli space of self-dual strings.",0.13,0.27,0.07692307692307693,0.04285714285714286,0.0,0.02857142857142857
+What is the new method for obtaining a series of approximations for the extinction probability of the one-dimensional contact process using the Gröbner basis?,"  In this note we give a new method for getting a series of approximations for
+the extinction probability of the one-dimensional contact process by using the
+Gr\""obner basis.
+",0704.0019,The new method involves using the Gröbner basis to obtain a series of approximations for the extinction probability of the one-dimensional contact process. This is achieved by considering the correlation identities and applying a suitable term order to the generators of the ideals.,0.23,0.14,0.045454545454545456,0.03571428571428571,0.045454545454545456,0.03571428571428571
+What is the measured value of the branching fraction ratio RD in the decay D0 --> K- e+ nue compared to D0 --> K- pi+ and how does it compare to theoretical calculations?,"  The shape of the hadronic form factor f+(q2) in the decay D0 --> K- e+ nue
+has been measured in a model independent analysis and compared with theoretical
+calculations. We use 75 fb(-1) of data recorded by the BABAR detector at the
+PEPII electron-positron collider. The corresponding decay branching fraction,
+relative to the decay D0 --> K- pi+, has also been measured to be RD = BR(D0
+--> K- e+ nue)/BR(D0 --> K- pi+) = 0.927 +/- 0.007 +/- 0.012. From these
+results, and using the present world average value for BR(D0 --> K- pi+), the
+normalization of the form factor at q2=0 is determined to be f+(0)=0.727 +/-
+0.007 +/- 0.005 +/- 0.007 where the uncertainties are statistical, systematic,
+and from external inputs, respectively.
+",0704.0020,"The measured value of the branching fraction ratio, RD, in the decay D0 → K −e+νe relative to the decay D0 → K −π+ is given as 0.9269 ± 0.0072 ± 0.0119. This measurement is compared with theoretical calculations, and the paper discusses the shape of the hadronic form factor f+(q2) in this decay. The paper also mentions that the corresponding decay branching fraction has been measured independently of a model, and the value of the hadronic form factor is obtained using this measurement.",0.27,0.42,0.06944444444444445,0.06818181818181818,0.05555555555555555,0.125
+What factors contribute to the development of complex wave patterns of molecular synchronization in a product-activated enzymic reaction at high enzyme concentrations?,"  Spatiotemporal pattern formation in a product-activated enzymic reaction at
+high enzyme concentrations is investigated. Stochastic simulations show that
+catalytic turnover cycles of individual enzymes can become coherent and that
+complex wave patterns of molecular synchronization can develop. The analysis
+based on the mean-field approximation indicates that the observed patterns
+result from the presence of Hopf and wave bifurcations in the considered
+system.
+",0704.0021,The development of complex wave patterns of molecular synchronization in a product-activated enzymic reaction at high enzyme concentrations is influenced by the presence of Hopf and wave bifurcations in the system.,0.16,0.36,0.03125,0.09375,0.03125,0.03125
+What are the advantages of using stochastic Munthe-Kaas methods for Lie group integration compared to other methods for simulating the dynamics of systems perturbed by stochastic noise processes?,"  We present Lie group integrators for nonlinear stochastic differential
+equations with non-commutative vector fields whose solution evolves on a smooth
+finite dimensional manifold. Given a Lie group action that generates transport
+along the manifold, we pull back the stochastic flow on the manifold to the Lie
+group via the action, and subsequently pull back the flow to the corresponding
+Lie algebra via the exponential map. We construct an approximation to the
+stochastic flow in the Lie algebra via closed operations and then push back to
+the Lie group and then to the manifold, thus ensuring our approximation lies in
+the manifold. We call such schemes stochastic Munthe-Kaas methods after their
+deterministic counterparts. We also present stochastic Lie group integration
+schemes based on Castell--Gaines methods. These involve using an underlying
+ordinary differential integrator to approximate the flow generated by a
+truncated stochastic exponential Lie series. They become stochastic Lie group
+integrator schemes if we use Munthe-Kaas methods as the underlying ordinary
+differential integrator. Further, we show that some Castell--Gaines methods are
+uniformly more accurate than the corresponding stochastic Taylor schemes.
+Lastly we demonstrate our methods by simulating the dynamics of a free rigid
+body such as a satellite and an autonomous underwater vehicle both perturbed by
+two independent multiplicative stochastic noise processes.
+",0704.0022,"The advantages of using stochastic Munthe-Kaas methods for Lie group integration are:
+- They can handle non-commutative governing vector fields, which is important when dealing with systems like a free rigid body or a satellite perturbed by multiplicative stochastic noise processes. 
+- They ensure that the approximation lies within the manifold, preventing solutions from leaving the defined space (in the example given, keeping the solution within the unit sphere manifold). 
+- They can be generalized to the stochastic setting, making them applicable to a wider range of problems involving stochastic differential equations. 
+- They can be used to construct a stochastic nonlinear Magnus method by approximating the solution to a stochastic differential equation on the Lie algebra. 
+- They are reliable even when the step size is small, which is a regime where other methods may struggle.",0.65,0.81,0.05223880597014925,0.037037037037037035,0.014925373134328358,0.023148148148148147
+What potential do millimeter wavelength observations of the solar chromosphere have in resolving the long-standing problem of understanding its structuring and dynamics?,"  The very nature of the solar chromosphere, its structuring and dynamics,
+remains far from being properly understood, in spite of intensive research.
+Here we point out the potential of chromospheric observations at millimeter
+wavelengths to resolve this long-standing problem. Computations carried out
+with a sophisticated dynamic model of the solar chromosphere due to Carlsson
+and Stein demonstrate that millimeter emission is extremely sensitive to
+dynamic processes in the chromosphere and the appropriate wavelengths to look
+for dynamic signatures are in the range 0.8-5.0 mm. The model also suggests
+that high resolution observations at mm wavelengths, as will be provided by
+ALMA, will have the unique property of reacting to both the hot and the cool
+gas, and thus will have the potential of distinguishing between rival models of
+the solar atmosphere. Thus, initial results obtained from the observations of
+the quiet Sun at 3.5 mm with the BIMA array (resolution of 12 arcsec) reveal
+significant oscillations with amplitudes of 50-150 K and frequencies of 1.5-8
+mHz with a tendency toward short-period oscillations in internetwork and longer
+periods in network regions. However higher spatial resolution, such as that
+provided by ALMA, is required for a clean separation between the features
+within the solar atmosphere and for an adequate comparison with the output of
+the comprehensive dynamic simulations.
+",0704.0023,"Millimeter-wavelength observations of the solar chromosphere have the potential to resolve the long-standing problem of understanding its structure and dynamics. This is because millimeter emissions are highly sensitive to dynamic processes in the chromosphere, and observing at wavelengths between 0.8 and 5.0 mm can reveal dynamic signatures. High-resolution observations at these wavelengths can provide new insights into chromospheric structure and allow for the detection of spatially resolved chromospheric oscillations.",0.29,0.91,0.07142857142857142,0.03755868544600939,0.02857142857142857,0.046948356807511735
+What factors influence the formation and behavior of quasi-2D spin-wave waveforms in longitudinally magnetized stripes of ferrimagnetic film?,"  The formation of quasi-2D spin-wave waveforms in longitudinally magnetized
+stripes of ferrimagnetic film was observed by using time- and space-resolved
+Brillouin light scattering technique. In the linear regime it was found that
+the confinement decreases the amplitude of dynamic magnetization near the
+lateral stripe edges. Thus, the so-called effective dipolar pinning of dynamic
+magnetization takes place at the edges.
+  In the nonlinear regime a new stable spin wave packet propagating along a
+waveguide structure, for which both transversal instability and interaction
+with the side walls of the waveguide are important was observed. The
+experiments and a numerical simulation of the pulse evolution show that the
+shape of the formed waveforms and their behavior are strongly influenced by the
+confinement.
+",0704.0024,"The formation and behavior of quasi-2D spin-wave waveforms in longitudinally magnetized stripes of ferrimagnetic film are influenced by the confinement of dynamic magnetization near the lateral stripe edges, which decreases the amplitude of dynamic magnetization. Additionally, the shape of the formed waveforms and their behavior are influenced by the transversal instability and interaction with the side walls of the waveguide structure.",0.28,0.58,0.04918032786885246,0.06666666666666667,0.0,0.016666666666666666
+What are the recent advances in understanding the ground and excited states of electron-phonon coupled systems achieved through Diagrammatic Monte Carlo and Stochastic Optimization methods?,"  We present recent advances in understanding of the ground and excited states
+of the electron-phonon coupled systems obtained by novel methods of
+Diagrammatic Monte Carlo and Stochastic Optimization, which enable the
+approximation-free calculation of Matsubara Green function in imaginary times
+and perform unbiased analytic continuation to real frequencies. We present
+exact numeric results on the ground state properties, Lehmann spectral function
+and optical conductivity of different strongly correlated systems: Frohlich
+polaron, Rashba-Pekar exciton-polaron, pseudo Jahn-Teller polaron, exciton, and
+interacting with phonons hole in the t-J model.
+",0704.0025,"Recent advances in understanding the ground and excited states of electron-phonon coupled systems have been achieved through the use of Diagrammatic Monte Carlo (DMC) and Stochastic Optimization (SO) methods. These methods allow for the numerically exact calculation of Green functions and correlation functions in imaginary time for a macroscopic system with multiple polarons. This enables the study of excited states and provides reliable information on the intermediate coupling regime. 
+
+The DMC approach specifically calculates Green functions in imaginary times, while the SO method is described as providing definitions of exciton-polaron properties. By combining these methods, researchers can gain a more comprehensive understanding of the system's properties and behavior.",0.52,0.5,0.05454545454545454,0.03260869565217391,0.03636363636363636,0.07608695652173914
+"What are the implications of using integer values greater than 8 and not a power of 2 as the ""strut constant"" in generating meta-fractals within the context of Wolfram's Class 4 complexity?","  Zero-divisors (ZDs) derived by Cayley-Dickson Process (CDP) from
+N-dimensional hypercomplex numbers (N a power of 2, at least 4) can represent
+singularities and, as N approaches infinite, fractals -- and thereby,scale-free
+networks. Any integer greater than 8 and not a power of 2 generates a
+meta-fractal or ""Sky"" when it is interpreted as the ""strut constant"" (S) of an
+ensemble of octahedral vertex figures called ""Box-Kites"" (the fundamental
+building blocks of ZDs). Remarkably simple bit-manipulation rules or ""recipes""
+provide tools for transforming one fractal genus into others within the context
+of Wolfram's Class 4 complexity.
+",0704.0026,"Using integer values greater than 8 and not a power of 2 as the ""strut constant"" in the context of generating meta-fractals within Wolfram's Class 4 complexity has several implications:
+
+- It leads to the creation of meta-fractals or ""Skies,"" which are infinite-dimensional analogues of standard plane-confined fractals.
+- These meta-fractals are associated with fractal signatures and can be transformed into different fractal genera using simple bit-manipulation rules or ""recipes.""
+- The strut constant plays a crucial role in determining the structure and properties of the meta-fractal. It influences the connectivity and dimensionality of the resulting fractal pattern.
+- The strut constant's position and value affect the indices and relationships within a dyad, as described by the ""Viziers"" in the text.
+- The strut constant also determines the ""inner skybox"" of the meta-fractal, which resides within the 2N-ions.
+- Using strut constants greater than 8 introduces new kinds of efficiency, synergy, and connectedness within the meta-fractal structure.
+- It provides a different perspective on Chaos Theory, suggesting that the transition between chaos modes can be driven by bitstring manipulations or cellular automata rules.
+- The strut constant's value influences the existence and direction of ""edge-currents"" between specific Assessors within the meta-fractal structure.
+- The strut constant's relationship with the value ""g"" helps determine the Vent and Zigzag Assessors within the meta-fractal.
+- The implications also extend to the ""Recipe Theory"" mentioned in the text, where strut constants fall into types demarcated by multiples of 8, similar to Bott periodicity.",0.96,0.47,0.044715447154471545,0.05154639175257732,0.04065040650406504,0.12371134020618557
+"What are the implications of using integer values greater than 8 and not a power of 2 as the ""strut constant"" in generating meta-fractals within the context of Wolfram's Class 4 complexity?","  Zero-divisors (ZDs) derived by Cayley-Dickson Process (CDP) from
+N-dimensional hypercomplex numbers (N a power of 2, at least 4) can represent
+singularities and, as N approaches infinite, fractals -- and thereby,scale-free
+networks. Any integer greater than 8 and not a power of 2 generates a
+meta-fractal or ""Sky"" when it is interpreted as the ""strut constant"" (S) of an
+ensemble of octahedral vertex figures called ""Box-Kites"" (the fundamental
+building blocks of ZDs). Remarkably simple bit-manipulation rules or ""recipes""
+provide tools for transforming one fractal genus into others within the context
+of Wolfram's Class 4 complexity.
+",0704.0112,"Using integer values greater than 8 and not a power of 2 as the ""strut constant"" in the context of generating meta-fractals within Wolfram's Class 4 complexity has several implications:
+
+- It leads to the creation of meta-fractals or ""Skies,"" which are infinite-dimensional analogues of standard plane-confined fractals.
+- These meta-fractals are associated with fractal signatures and can be transformed into different fractal genera using simple bit-manipulation rules or ""recipes.""
+- The strut constant plays a crucial role in determining the structure and properties of the meta-fractal. It influences the connectivity and dimensionality of the resulting fractal pattern.
+- The strut constant's position and value affect the indices and relationships within a dyad, as described by the ""Viziers"" in the text.
+- The strut constant also determines the ""inner skybox"" of the meta-fractal, which resides within the 2N-ions.
+- The proposition suggests that any integer greater than 8 and not a power of 2 can be uniquely associated with a strut constant, leading to infinite-dimensional fractal structures.
+- The implications further extend to the concept of ""Recipe Theory,"" where specific rules or recipes can be used to prepare and ""cook"" these meta-fractal entities, offering new kinds of efficiency, synergy, and connectedness.
+- The use of these integer values for the strut constant provides a different perspective on Chaos Theory, suggesting that the transition from one mode of chaos to another can be driven by bitstring manipulations.
+
+Overall, the choice of integer values greater than 8 and not a power of 2 as the strut constant in this context opens up a range of possibilities for exploring and understanding complex fractal structures and their transformations within Wolfram's Class 4 complexity.",0.98,0.47,0.05128205128205128,0.05154639175257732,0.029304029304029304,0.12371134020618557
+"What are the implications of using integer values greater than 8 and not a power of 2 as the ""strut constant"" in generating meta-fractals within the context of Wolfram's Class 4 complexity?","  Zero-divisors (ZDs) derived by Cayley-Dickson Process (CDP) from
+N-dimensional hypercomplex numbers (N a power of 2, at least 4) can represent
+singularities and, as N approaches infinite, fractals -- and thereby,scale-free
+networks. Any integer greater than 8 and not a power of 2 generates a
+meta-fractal or ""Sky"" when it is interpreted as the ""strut constant"" (S) of an
+ensemble of octahedral vertex figures called ""Box-Kites"" (the fundamental
+building blocks of ZDs). Remarkably simple bit-manipulation rules or ""recipes""
+provide tools for transforming one fractal genus into others within the context
+of Wolfram's Class 4 complexity.
+",0704.0026,"Using integer values greater than 8 and not a power of 2 as the ""strut constant"" in the context of generating meta-fractals within Wolfram's Class 4 complexity has several implications:
+
+- It leads to the creation of meta-fractals or ""Skies,"" which are infinite-dimensional analogues of standard plane-confined fractals.
+- These meta-fractals are associated with fractal signatures and can be transformed into different fractal genera using simple bit-manipulation rules or ""recipes.""
+- The strut constant plays a crucial role in determining the structure and properties of the meta-fractal. It influences the connectivity and dimensionality of the resulting fractal pattern.
+- The strut constant's position and value affect the monotonic increase of labels within the meta-fractal structure, specifically up to and including the label immediately adjoining its own strut constant.
+- The strut constant's value also impacts the arrangement of strut opposites and the relations between indices within a dyad, as described by the ""Viziers.""
+- The choice of strut constant influences the existence and arrangement of edge-currents between Assessors with specific L-indices.
+- Using strut constants greater than 8 introduces new kinds of efficiency, synergy, and connectedness within the meta-fractal structure, potentially enhancing the understanding and applications of Chaos Theory.
+- The strut constant's value determines the inner skybox residence of the associated ZD ensembles within the 2N-ions.
+- The proposition asserts that any integer greater than 8 and not a power of 2 can be uniquely associated with a strut constant, leading to the construction of infinite-dimensional meta-fractal entities.
+- The strut constant's high-bits and low-bits influence the phenomenology of the meta-fractal, with singleton high-bits representing powers of 2 greater than or equal to 3.",0.97,0.47,0.0364963503649635,0.05154639175257732,0.029197080291970802,0.12371134020618557
+"What are the implications of using integer values greater than 8 and not a power of 2 as the ""strut constant"" in generating meta-fractals within the context of Wolfram's Class 4 complexity?","  Zero-divisors (ZDs) derived by Cayley-Dickson Process (CDP) from
+N-dimensional hypercomplex numbers (N a power of 2, at least 4) can represent
+singularities and, as N approaches infinite, fractals -- and thereby,scale-free
+networks. Any integer greater than 8 and not a power of 2 generates a
+meta-fractal or ""Sky"" when it is interpreted as the ""strut constant"" (S) of an
+ensemble of octahedral vertex figures called ""Box-Kites"" (the fundamental
+building blocks of ZDs). Remarkably simple bit-manipulation rules or ""recipes""
+provide tools for transforming one fractal genus into others within the context
+of Wolfram's Class 4 complexity.
+",0704.0112,"Using integer values greater than 8 and not a power of 2 as the ""strut constant"" in the context of generating meta-fractals within Wolfram's Class 4 complexity has several implications:
+
+- It leads to the creation of meta-fractals or ""Skies,"" which are infinite-dimensional analogues of standard plane-confined fractals.
+- These meta-fractals are associated with fractal signatures and can be transformed into different fractal genera using simple bit-manipulation rules or ""recipes.""
+- The strut constant plays a crucial role in determining the structure and properties of the meta-fractal. It influences the connectivity and dimensionality of the resulting fractal pattern.
+- The strut constant's position and value affect the monotonic increase of labels within the meta-fractal structure, particularly in relation to the midline bounds.
+- The strut constant also impacts the existence and direction of edge-currents between specific assessors within the meta-fractal structure.
+- The choice of strut constant values greater than 8 introduces new kinds of efficiency, synergy, and connectedness within the meta-fractal, potentially enhancing the understanding and applications of chaos theory.
+- The strut constant's value influences the embedding of smaller fractal patterns within the infinite cascade of boxes-within-boxes that make up the meta-fractal.
+- The strut constant's relationship with the ""inner skybox"" and the ""grab-bag of properties"" contributes to the overall complexity and behavior of the meta-fractal system.
+
+Overall, the implications of using integer values greater than 8 and not a power of 2 as the strut constant in Wolfram's Class 4 complexity lead to the generation of infinite-dimensional meta-fractals with unique structural, connective, and transformative properties. These meta-fractals offer new insights into the nature of complexity and provide a novel perspective on the study of chaotic systems.",1.0,0.47,0.04240282685512368,0.05154639175257732,0.014134275618374558,0.12371134020618557
+"What is the relationship between the in-plane optical phonon at the Gamma-point in graphene and inter-Landau-level transitions, and how can this be used to measure electron-phonon coupling strength and detect circularly polarized lattice modes?","  We describe a peculiar fine structure acquired by the in-plane optical phonon
+at the Gamma-point in graphene when it is brought into resonance with one of
+the inter-Landau-level transitions in this material. The effect is most
+pronounced when this lattice mode (associated with the G-band in graphene Raman
+spectrum) is in resonance with inter-Landau-level transitions 0 -> (+,1) and
+(-,1) -> 0, at a magnetic field B_0 ~ 30 T. It can be used to measure the
+strength of the electron-phonon coupling directly, and its filling-factor
+dependence can be used experimentally to detect circularly polarized lattice
+modes.
+",0704.0027,"When graphene is exposed to a magnetic field, its electronic spectrum splits into discrete Landau levels (LLs). The energy of the optical phonon at the Γ-point in graphene can align with the energy of transitions between these LLs, a phenomenon known as magnetophonon resonance. This resonance enhances the effect of electron-phonon coupling on the spectrum of in-plane optical phonons, specifically the E2g modes. 
+
+The effect is most noticeable when the lattice mode associated with the G-band in the graphene Raman spectrum aligns with specific inter-LL transitions (0 => +,1 and -,1 => 0) at a magnetic field of approximately 30T. This resonance can be utilized to directly measure the strength of electron-phonon coupling. 
+
+Additionally, the filling-factor dependence of this resonance can be used to experimentally detect circularly polarized lattice vibrations. By varying the electron filling factor, ν, the number of split lines in the fine structure of the phonon and the value of splitting can be altered. This dependence on ν allows for the distinction between left- and right-hand circularly polarized lattice modes.",0.61,0.33,0.046242774566473986,0.0625,0.028901734104046242,0.052083333333333336
+What is the significance of using the hafnian inequality to improve the lower bound of R\'ev\'esz and Sarantopoulos on the norm of a product of linear functionals on a real Euclidean space?,"  We prove pfaffian and hafnian versions of Lieb's inequalities on determinants
+and permanents of positive semi-definite matrices. We use the hafnian
+inequality to improve the lower bound of R\'ev\'esz and Sarantopoulos on the
+norm of a product of linear functionals on a real Euclidean space (this subject
+is sometimes called the `real linear polarization constant' problem).
+",0704.0028,"The hafnian inequality is used to improve the lower bound of Révész and Sarantopoulos on the norm of a product of linear functionals on a real Euclidean space. This is part of the author's main goal in the paper, which involves proving pfa(cid:30)an and hafnian versions of Lieb's inequalities on determinants and permanents of positive semi-definite matrices.",0.3,0.29,0.05263157894736842,0.03571428571428571,0.08771929824561403,0.07142857142857142
+Question: How does the emission of Goldstone bosons by quarks in $\XQM$ contribute to the interpretation of flavor symmetry breaking in nucleon flavor-spin structure?,"  In $\XQM$, a quark can emit Goldstone bosons. The flavor symmetry breaking in
+the Goldstone boson emission process is used to intepret the nucleon
+flavor-spin structure. In this paper, we study the inner structure of
+constituent quarks implied in $\XQM$ caused by the Goldstone boson emission
+process in nucleon. From a simplified model Hamiltonian derived from $\XQM$,
+the intrinsic wave functions of constituent quarks are determined. Then the
+obtained transition probabilities of the emission of Goldstone boson from a
+quark can give a reasonable interpretation to the flavor symmetry breaking in
+nucleon flavor-spin structure.
+",0704.0029,"The emission of Goldstone bosons by quarks in χQM is used to interpret the flavor symmetry breaking in the nucleon flavor-spin structure. The transition probabilities of Goldstone boson emissions from quarks reflect the flavor SU(3) symmetry breaking in χQM, which is caused by differences in quark masses and Goldstone boson masses.",0.22,0.35,0.0784313725490196,0.07526881720430108,0.0392156862745098,0.03225806451612903
+How does tuning the phonon energy affect the correlation effects in models of electron-phonon interactions using DMFT?,"  We investigate the effect of tuning the phonon energy on the correlation
+effects in models of electron-phonon interactions using DMFT. In the regime
+where itinerant electrons, instantaneous electron-phonon driven correlations
+and static distortions compete on similar energy scales, we find several
+interesting results including (1) A crossover from band to Mott behavior in the
+spectral function, leading to hybrid band/Mott features in the spectral
+function for phonon frequencies slightly larger than the band width. (2) Since
+the optical conductivity depends sensitively on the form of the spectral
+function, we show that such a regime should be observable through the low
+frequency form of the optical conductivity. (3) The resistivity has a double
+kondo peak arrangement
+",0704.0030,"Tuning the phonon energy in models of electron-phonon interactions using DMFT can result in different levels of correlation effects. In the regime of high phonon frequencies, electrons interact with a strongly correlated Hubbard-like attraction, whereas low phonon frequencies give rise to a static potential that is essentially uncorrelated. Between these extremes, the level of correlation is tuned by the phonon frequency, leading to novel physics. This tuning effect allows for the investigation of the competition between itinerant electrons, instantaneous electron-phonon driven correlations, and static distortions.",0.45,0.55,0.06818181818181818,0.06086956521739131,0.011363636363636364,0.043478260869565216
+How does the crystal adaptation improve efficiency in trapping diffractively scattered protons at the Large Hadron Collider?,"  We show that crystal can trap a broad (x, x', y, y', E) distribution of
+particles and channel it preserved with a high precision. This sampled-and-hold
+distribution can be steered by a bent crystal for analysis downstream. In
+simulations for the 7 TeV Large Hadron Collider, a crystal adapted to the
+accelerator lattice traps 90% of diffractively scattered protons emerging from
+the interaction point with a divergence 100 times the critical angle. We set
+the criterion for crystal adaptation improving efficiency ~100-fold. Proton
+angles are preserved in crystal transmission with accuracy down to 0.1
+microrad. This makes feasible a crystal application for measuring very forward
+protons at the LHC.
+",0704.0031,"Crystal adaptation improves efficiency by about 100-fold in trapping diffractively scattered protons at the Large Hadron Collider. This is achieved by setting a criterion for crystal adaptation, which allows the crystal to trap 90% of the diffractively scattered protons with a divergence 100 times the critical angle.",0.21,0.51,0.08888888888888889,0.06542056074766354,0.08888888888888889,0.037383177570093455
+What are the potential methods for detecting non-standard neutrino interactions in a future galactic supernova using a Megaton water Cherenkov detector?,"  We analyze the possibility of probing non-standard neutrino interactions
+(NSI, for short) through the detection of neutrinos produced in a future
+galactic supernova (SN).We consider the effect of NSI on the neutrino
+propagation through the SN envelope within a three-neutrino framework, paying
+special attention to the inclusion of NSI-induced resonant conversions, which
+may take place in the most deleptonised inner layers. We study the possibility
+of detecting NSI effects in a Megaton water Cherenkov detector, either through
+modulation effects in the $\bar\nu_e$ spectrum due to (i) the passage of shock
+waves through the SN envelope, (ii) the time dependence of the electron
+fraction and (iii) the Earth matter effects; or, finally, through the possible
+detectability of the neutronization $\nu_e$ burst. We find that the $\bar\nu_e$
+spectrum can exhibit dramatic features due to the internal NSI-induced resonant
+conversion. This occurs for non-universal NSI strengths of a few %, and for
+very small flavor-changing NSI above a few$\times 10^{-5}$.
+",0704.0032,"Sorry, the provided text does not contain any information regarding methods for detecting non-standard neutrino interactions in a future galactic supernova using a Megaton water Cherenkov detector.",0.18,0.68,0.03571428571428571,0.038461538461538464,0.07142857142857142,0.07051282051282051
+What are the implications of the linear and quadratic terms in the error bounds of the discrete dipole approximation for different shaped scatterers?,"  We performed a rigorous theoretical convergence analysis of the discrete
+dipole approximation (DDA). We prove that errors in any measured quantity are
+bounded by a sum of a linear and quadratic term in the size of a dipole d, when
+the latter is in the range of DDA applicability. Moreover, the linear term is
+significantly smaller for cubically than for non-cubically shaped scatterers.
+Therefore, for small d errors for cubically shaped particles are much smaller
+than for non-cubically shaped. The relative importance of the linear term
+decreases with increasing size, hence convergence of DDA for large enough
+scatterers is quadratic in the common range of d. Extensive numerical
+simulations were carried out for a wide range of d. Finally we discuss a number
+of new developments in DDA and their consequences for convergence.
+",0704.0033,"The linear and quadratic terms in the error bounds of the Discrete Dipole Approximation (DDA) have implications for the convergence behavior and accuracy of the method when applied to differently shaped scatterers. 
+
+For cubically shaped scatterers, the linear term is significantly smaller compared to non-cubically shaped scatterers. This results in smaller total errors, especially when the size of the scatterer (represented by the parameter 'y') is small. As the size of the scatterer increases, the relative importance of the linear term decreases, and the convergence of DDA becomes purely quadratic. 
+
+On the other hand, for non-cubically shaped scatterers, the linear term reappears due to shape errors. These errors exhibit quasi-random oscillations that are not present for cubically shaped particles. The presence of these errors can impact the accuracy of the DDA method, especially for small y values. 
+
+In summary, the linear term in the error bounds is more significant for non-cubically shaped scatterers and can lead to larger total errors, while the convergence for cubically shaped scatterers is more robust and purely quadratic for larger scatterers.",0.54,0.51,0.05,0.06015037593984962,0.016666666666666666,0.03007518796992481
+What is the significance of the correspondence sent to Nature in 1990 in relation to the paper arXiv:q-bio/0701050?,"  This is a supplement to the paper arXiv:q-bio/0701050, containing the text of
+correspondence sent to Nature in 1990.
+",0704.0034,"The correspondence sent to Nature in 1990 is a supplement to the paper arXiv:q-bio/0701050, providing additional context and details on the topic of adaptive mutations and the potential role of quantum concepts in biology. It discusses the non-random induction of adaptive mutations by environmental stimuli and explores the idea that the activation of gene expression increases the mutation rate. The correspondence also mentions previous works and includes comments from the author, providing insights into the evolution of their thoughts and research over time.",0.42,0.08,0.03571428571428571,0.05555555555555555,0.023809523809523808,0.05555555555555555
+What test cases were used to study the performance of the extrapolation technique for improving the accuracy of discrete dipole approximation computations?,"  We propose an extrapolation technique that allows accuracy improvement of the
+discrete dipole approximation computations. The performance of this technique
+was studied empirically based on extensive simulations for 5 test cases using
+many different discretizations. The quality of the extrapolation improves with
+refining discretization reaching extraordinary performance especially for
+cubically shaped particles. A two order of magnitude decrease of error was
+demonstrated. We also propose estimates of the extrapolation error, which were
+proven to be reliable. Finally we propose a simple method to directly separate
+shape and discretization errors and illustrated this for one test case.
+",0704.0035,"The test cases used to study the performance of the extrapolation technique for improving the accuracy of discrete dipole approximation (DDA) computations involved numerical simulations of light scattering by spheres with size parameters up to 160 and 40 for refractive indices of 1.05 to 2.0. The number of dipoles per wavelength was varied from 2.6x10^5 to 1.3x10^8, and different iterative solvers (QMR, Bi-CG, and Bi-CGSTAB) were used.",0.33,0.52,0.047619047619047616,0.07368421052631578,0.12698412698412698,0.031578947368421054
+How does the number of positive steady states of a multisite phosphorylation-dephosphorylation cycle vary by changing biological parameters?,"  The multisite phosphorylation-dephosphorylation cycle is a motif repeatedly
+used in cell signaling. This motif itself can generate a variety of dynamic
+behaviors like bistability and ultrasensitivity without direct positive
+feedbacks. In this paper, we study the number of positive steady states of a
+general multisite phosphorylation-dephosphorylation cycle, and how the number
+of positive steady states varies by changing the biological parameters. We show
+analytically that (1) for some parameter ranges, there are at least n+1 (if n
+is even) or n (if n is odd) steady states; (2) there never are more than 2n-1
+steady states (in particular, this implies that for n=2, including single
+levels of MAPK cascades, there are at most three steady states); (3) for
+parameters near the standard Michaelis-Menten quasi-steady state conditions,
+there are at most n+1 steady states; and (4) for parameters far from the
+standard Michaelis-Menten quasi-steady state conditions, there is at most one
+steady state.
+",0704.0036,"The number of positive steady states of a multisite phosphorylation-dephosphorylation cycle varies depending on the range of biological parameters. For certain parameter ranges, there can be at least n + 1 (if n is even) or n (if n is odd) steady states. When parameters are near the standard Michaelis-Menten quasi-steady-state conditions, there can be up to n + 1 steady states. However, when parameters deviate from these standard conditions, the number of steady states decreases to a maximum of one.",0.26,0.51,0.037037037037037035,0.04666666666666667,0.037037037037037035,0.06666666666666667
+"What are the main limitations of the Discrete Dipole Approximation (DDA) computer program in simulating light scattering by very large particles, and how can these limitations be improved upon?","  In this manuscript we investigate the capabilities of the Discrete Dipole
+Approximation (DDA) to simulate scattering from particles that are much larger
+than the wavelength of the incident light, and describe an optimized publicly
+available DDA computer program that processes the large number of dipoles
+required for such simulations. Numerical simulations of light scattering by
+spheres with size parameters x up to 160 and 40 for refractive index m=1.05 and
+2 respectively are presented and compared with exact results of the Mie theory.
+Errors of both integral and angle-resolved scattering quantities generally
+increase with m and show no systematic dependence on x. Computational times
+increase steeply with both x and m, reaching values of more than 2 weeks on a
+cluster of 64 processors. The main distinctive feature of the computer program
+is the ability to parallelize a single DDA simulation over a cluster of
+computers, which allows it to simulate light scattering by very large
+particles, like the ones that are considered in this manuscript. Current
+limitations and possible ways for improvement are discussed.
+",0704.0037,"The main limitations of the Discrete Dipole Approximation (DDA) computer program when simulating light scattering by large particles are the extreme computational complexity and long computation times, especially for particles with a high refractive index and large size parameters. 
+
+To address these limitations, the paper discusses the use of advanced numerical techniques to reduce computational complexity and parallelizing simulations over a cluster of computers to decrease computation times. Additionally, an extrapolation technique is mentioned to increase the accuracy of the DDA.",0.44,0.75,0.037037037037037035,0.047337278106508875,0.012345679012345678,0.047337278106508875
+Question: How does the discrete dipole approximation compare to other methods of simulating light scattering by arbitrarily shaped particles?,"  We present a review of the discrete dipole approximation (DDA), which is a
+general method to simulate light scattering by arbitrarily shaped particles. We
+put the method in historical context and discuss recent developments, taking
+the viewpoint of a general framework based on the integral equations for the
+electric field. We review both the theory of the DDA and its numerical aspects,
+the latter being of critical importance for any practical application of the
+method. Finally, the position of the DDA among other methods of light
+scattering simulation is shown and possible future developments are discussed.
+",0704.0038,"The discrete dipole approximation (DDA) is a well-known method for simulating light scattering by arbitrarily shaped particles. It was introduced by Purcell and Pennypacker and has since been constantly improved. 
+
+The DDA is compared to other methods in the following references: 
+
+- Hage, J. I., Greenberg, J. M., & Wang, R. T. (1991). *Scattering from arbitrarily shaped particles - theory and experiment*. Appl. Opt., 30, 1141-1152. 
+- Piller, N. B. (1997). *Influence of the edge meshes on the accuracy of the coupled-dipole approximation*. Opt. Lett., 22, 1674-1676. 
+- Xu, Y. L., & Gustafson, B. A. S. (1999). *Comparison between multisphere light-scattering calculations: Rigorous solution and discrete-dipole approximation*. Astrophys. J., 513, 894-909. 
+- Chaumet, P. C., Sentenac, A., & Rahmani, A. (2004). *Coupled dipole method for scatterers with large permittivity*. Phys. Rev. E, 70, 036606. 
+- Piller, N. B., & Martin, O. J. F. (1998). *Increasing the performance of the coupled-dipole approximation: A spectral approach*. IEEE Trans. Ant. Propag., 46, 1126-1137. 
+
+These references provide insights into how the DDA compares to other methods in terms of accuracy, computational efficiency, and applicability to different types of particles.",0.7,0.45,0.03546099290780142,0.041666666666666664,0.20567375886524822,0.010416666666666666
+What is the main source of error in the determination of the quadratic pion scalar radius in \pi\pi scattering?,"  The quadratic pion scalar radius, \la r^2\ra^\pi_s, plays an important role
+for present precise determinations of \pi\pi scattering. Recently, Yndur\'ain,
+using an Omn\`es representation of the null isospin(I) non-strange pion scalar
+form factor, obtains \la r^2\ra^\pi_s=0.75\pm 0.07 fm^2. This value is larger
+than the one calculated by solving the corresponding Muskhelishvili-Omn\`es
+equations, \la r^2\ra^\pi_s=0.61\pm 0.04 fm^2. A large discrepancy between both
+values, given the precision, then results. We reanalyze Yndur\'ain's method and
+show that by imposing continuity of the resulting pion scalar form factor under
+tiny changes in the input \pi\pi phase shifts, a zero in the form factor for
+some S-wave I=0 T-matrices is then required. Once this is accounted for, the
+resulting value is \la r^2\ra_s^\pi=0.65\pm 0.05 fm^2. The main source of error
+in our determination is present experimental uncertainties in low energy S-wave
+I=0 \pi\pi phase shifts. Another important contribution to our error is the not
+yet settled asymptotic behaviour of the phase of the scalar form factor from
+QCD.
+",0704.0039,"The main source of error in the determination of the quadratic pion scalar radius in pion-pion scattering is the presence of experimental uncertainties in low-energy S-wave I=0 pion-pion phase shifts. Additionally, the not-yet-settled asymptotic behavior of the phase of the scalar form factor from QCD also contributes significantly to the error.",0.23,0.62,0.03571428571428571,0.06944444444444445,0.017857142857142856,0.04861111111111111
+What positivity results are presented in the framework of conditional freeness with positive conditional expectations?,"  As in the cases of freeness and monotonic independence, the notion of
+conditional freeness is meaningful when complex-valued states are replaced by
+positive conditional expectations. In this framework, the paper presents
+several positivity results, a version of the central limit theorem and an
+analogue of the conditionally free R-transform constructed by means of
+multilinear function series.
+",0704.0040,"The paper presents several positivity results in the framework of conditional freeness with positive conditional expectations. Specifically, it discusses the positivity of maps ΦX+Y and ΨX+Y when given that the maps ΦX, ΨX and ΦY, ΨY are positive, and the elements X and Y are c-free and self-adjoint. Additionally, it mentions the positivity of maps Φ and Ψ in the context of c-free product and positive conditional expectations.",0.26,0.29,0.07246376811594203,0.05172413793103448,0.028985507246376812,0.0
+What is the explicit description of the quantum isometry groups of commutative and noncommutative tori?,"  We formulate a quantum generalization of the notion of the group of
+Riemannian isometries for a compact Riemannian manifold, by introducing a
+natural notion of smooth and isometric action by a compact quantum group on a
+classical or noncommutative manifold described by spectral triples, and then
+proving the existence of a universal object (called the quantum isometry group)
+in the category of compact quantum groups acting smoothly and isometrically on
+a given (possibly noncommutative) manifold satisfying certain regularity
+assumptions. In fact, we identify the quantum isometry group with the universal
+object in a bigger category, namely the category of `quantum families of smooth
+isometries', defined along the line of Woronowicz and Soltan. We also construct
+a spectral triple on the Hilbert space of forms on a noncommutative manifold
+which is equivariant with respect to a natural unitary representation of the
+quantum isometry group. We give explicit description of quantum isometry groups
+of commutative and noncommutative tori, and in this context, obtain the quantum
+double torus defined in \cite{hajac} as the universal quantum group of
+holomorphic isometries of the noncommutative torus.
+",0704.0041,"The quantum isometry group of commutative tori (i.e., the one-torus) is isomorphic to the classical isometry group, indicating a form of rigidity. For noncommutative tori, the quantum isometry group includes the 'quantum double torus' as a quantum subgroup, which is universal for holomorphic isometries.",0.18,0.67,0.045454545454545456,0.01675977653631285,0.022727272727272728,0.027932960893854747
+"Question: How can the quantum formalism be extended to meet the requirements of general systems theory, and how does quantum semantics play a role in this extension?","  It is outlined the possibility to extend the quantum formalism in relation to
+the requirements of the general systems theory. It can be done by using a
+quantum semantics arising from the deep logical structure of quantum theory. It
+is so possible taking into account the logical openness relationship between
+observer and system. We are going to show how considering the truth-values of
+quantum propositions within the context of the fuzzy sets is here more useful
+for systemics . In conclusion we propose an example of formal quantum
+coherence.
+",0704.0042,"The paper proposes extending the quantum formalism to meet the requirements of general systems theory by incorporating a quantum semantics that arises from the deep logical structure of quantum theory. This approach considers the truth values of quantum propositions within the context of fuzzy sets, allowing for a more comprehensive description of the observer-environment relationship in complex systems. 
+
+By associating a degree of membership rather than a probability value to the expression (Y QS), the paper combines the non-commutative aspects of quantum languages with the polyvalence of fuzzy logic. This union is argued to be particularly fecund for systemics, offering new interpretative possibilities. 
+
+The use of quantum semantics in this context allows for the extension of indetermination principles to various spheres of interest for systemics, including the management of infinite cardinality of emergent propositions.",0.65,0.39,0.03676470588235294,0.0449438202247191,0.0,0.0
+How do nonequilibrium entropy limiters for lattice Boltzmann methods compare to flux limiters for other numerical methods in terms of erasing spurious oscillations and preserving smooth solutions?,"  We construct a system of nonequilibrium entropy limiters for the lattice
+Boltzmann methods (LBM). These limiters erase spurious oscillations without
+blurring of shocks, and do not affect smooth solutions. In general, they do the
+same work for LBM as flux limiters do for finite differences, finite volumes
+and finite elements methods, but for LBM the main idea behind the construction
+of nonequilibrium entropy limiter schemes is to transform a field of a scalar
+quantity - nonequilibrium entropy. There are two families of limiters: (i)
+based on restriction of nonequilibrium entropy (entropy ""trimming"") and (ii)
+based on filtering of nonequilibrium entropy (entropy filtering). The physical
+properties of LBM provide some additional benefits: the control of entropy
+production and accurate estimate of introduced artificial dissipation are
+possible. The constructed limiters are tested on classical numerical examples:
+1D athermal shock tubes with an initial density ratio 1:2 and the 2D lid-driven
+cavity for Reynolds numbers Re between 2000 and 7500 on a coarse 100*100 grid.
+All limiter constructions are applicable for both entropic and non-entropic
+quasiequilibria.
+",0704.0043,"Nonequilibrium entropy limiters for lattice Boltzmann methods offer several advantages over traditional flux limiters used in other numerical methods when it comes to erasing spurious oscillations and preserving smooth solutions. 
+
+While both approaches aim to eliminate spurious oscillations, the key difference lies in their approach. Flux limiters operate on vectors or tensors of spatial derivatives, aiming to combine high-resolution schemes in smooth regions and first-order schemes in areas with sharp gradients. On the other hand, nonequilibrium entropy limiters focus on limiting a scalar quantity, the nonequilibrium entropy, without affecting the vectors or tensors of spatial derivatives. 
+
+By targeting the nonequilibrium entropy directly, the nonequilibrium entropy limiters can effectively erase spurious oscillations without introducing additional blurring or affecting smooth solutions. This is a significant advantage over flux limiters, which may struggle with preserving smooth solutions while eliminating oscillations. 
+
+Additionally, the construction of nonequilibrium entropy limiters is based on the representation of distributions in a specific form, allowing for the design of simple limiters that are independent of slopes or gradients. This provides more flexibility and adaptability to the lattice Boltzmann methods. 
+
+In summary, nonequilibrium entropy limiters for lattice Boltzmann methods offer a more targeted and effective approach to erasing spurious oscillations while better preserving smooth solutions compared to traditional flux limiters used in other numerical methods.",0.8,0.75,0.03686635944700461,0.041666666666666664,0.009216589861751152,0.041666666666666664
+What are the key assumptions and processes involved in the development of kinetic cascades in plasma turbulence in astrophysical plasmas?,"  We present a theoretical framework for plasma turbulence in astrophysical
+plasmas (solar wind, interstellar medium, galaxy clusters, accretion disks).
+The key assumptions are that the turbulence is anisotropic with respect to the
+mean magnetic field and frequencies are low compared to the ion cyclotron
+frequency. The energy injected at the outer scale scale has to be converted
+into heat, which ultimately cannot be done without collisions. A KINETIC
+CASCADE develops that brings the energy to collisional scales both in space and
+velocity. Its nature depends on the physics of plasma fluctuations. In each of
+the physically distinct scale ranges, the kinetic problem is systematically
+reduced to a more tractable set of equations. In the ""inertial range"" above the
+ion gyroscale, the kinetic cascade splits into a cascade of Alfvenic
+fluctuations, which are governed by the RMHD equations at both the collisional
+and collisionless scales, and a passive cascade of compressive fluctuations,
+which obey a linear kinetic equation along the moving field lines associated
+with the Alfvenic component. In the ""dissipation range"" between the ion and
+electron gyroscales, there are again two cascades: the kinetic-Alfven-wave
+(KAW) cascade governed by two fluid-like Electron RMHD equations and a passive
+phase-space cascade of ion entropy fluctuations. The latter cascade brings the
+energy of the inertial-range fluctuations that was damped by collisionless
+wave-particle interaction at the ion gyroscale to collisional scales in the
+phase space and leads to ion heating. The KAW energy is similarly damped at the
+electron gyroscale and converted into electron heat. Kolmogorov-style scaling
+relations are derived for these cascades. Astrophysical and space-physical
+applications are discussed in detail.
+",0704.0044,"The development of kinetic cascades in plasma turbulence in astrophysical plasmas involves several key assumptions and processes. Here are the important ones:
+
+- The presence of turbulent motions at weakly collisional and collisionless scales in various astrophysical plasmas, such as the solar wind, interstellar medium, and galaxy clusters.
+- The fundamental challenge is to understand how the turbulent fluctuation energy injected at the outer scale is cascaded to small scales and deposited into particle heat.
+- The concept of a ""kinetic cascade,"" which generalizes the familiar energy cascade in fluid turbulence to the kinetic framework, is central to the theory.
+- The use of simplified models, derived from the full kinetic theory, that are more tractable analytically and numerically while still capturing the essential physics of the kinetic cascade.
+- The distinction between fluid and kinetic models, with the latter being necessary to describe the behavior of plasma fluctuations along the cascade pathway.
+- The role of collisions and collisionless processes in dissipating the generalized energy injected by outer-scale stirring.
+- The application of the theoretical framework to specific astrophysical contexts, such as the interstellar medium, accretion disks, and galaxy clusters.
+- The consideration of various scale ranges and the development of reduced kinetic, fluid, and hybrid descriptions to understand the physics of the kinetic cascade in each range.
+- The inclusion of gyrokinetic theory to account for the ""fluid"" and ""kinetic"" aspects of plasma turbulence and the branching pathways of the generalized energy cascade in phase space.
+- The investigation of turbulent cascades of density and magnetic fluctuations, particularly at or below the ion gyroscale.
+- The role of linear collisionless damping and its relation to the conversion of energy into ion entropy fluctuations during the nonlinear turbulent cascade.",1.06,1.01,0.02857142857142857,0.04363636363636364,0.0035714285714285713,0.025454545454545455
+How does the combined action of variable topography and bottom friction affect the propagation of undular bores in shallow-water solitary and nonlinear periodic waves over a gradual slope?,"  This paper considers the propagation of shallow-water solitary and nonlinear
+periodic waves over a gradual slope with bottom friction in the framework of a
+variable-coefficient Korteweg-de Vries equation. We use the Whitham averaging
+method, using a recent development of this theory for perturbed integrable
+equations. This general approach enables us not only to improve known results
+on the adiabatic evolution of isolated solitary waves and periodic wave trains
+in the presence of variable topography and bottom friction, modeled by the
+Chezy law, but also importantly, to study the effects of these factors on the
+propagation of undular bores, which are essentially unsteady in the system
+under consideration. In particular, it is shown that the combined action of
+variable topography and bottom friction generally imposes certain global
+restrictions on the undular bore propagation so that the evolution of the
+leading solitary wave can be substantially different from that of an isolated
+solitary wave with the same initial amplitude. This non-local effect is due to
+nonlinear wave interactions within the undular bore and can lead to an
+additional solitary wave amplitude growth, which cannot be predicted in the
+framework of the traditional adiabatic approach to the propagation of solitary
+waves in slowly varying media.
+",0704.0045,The combined action of variable topography and bottom friction imposes certain global restrictions on the propagation of undular bores in shallow-water solitary and nonlinear periodic waves over a gradual slope. This results in substantial changes to the evolution of the leading solitary wave. The lead solitary wave in the undular bore moves faster and has a greater amplitude compared to an isolated solitary wave with the same initial amplitude at the start of the slope.,0.35,0.81,0.039473684210526314,0.03864734299516908,0.0,0.00966183574879227
+What is the significance of the quantum law of large numbers in proving the conjecture about the limit of entropy in certain mixtures as system size approaches infinity?,"  In a quantum mechanical model, Diosi, Feldmann and Kosloff arrived at a
+conjecture stating that the limit of the entropy of certain mixtures is the
+relative entropy as system size goes to infinity. The conjecture is proven in
+this paper for density matrices. The first proof is analytic and uses the
+quantum law of large numbers. The second one clarifies the relation to channel
+capacity per unit cost for classical-quantum channels. Both proofs lead to
+generalization of the conjecture.
+",0704.0046,"The quantum law of large numbers is significant in proving the conjecture about the limit of entropy in certain mixtures as the system size approaches infinity. It provides a framework to analyze the behavior of quantum systems in the limit of large dimensions, allowing for the application of analytical techniques from classical probability theory. By assuming that the density matrices ρ and σ are invertible and using the GNS-construction with respect to the limit of product states, the authors of the paper utilize the quantum law of large numbers to prove the conjecture and establish the convergence of the entropy of the mixture to the relative entropy.",0.46,0.42,0.046296296296296294,0.0875,0.009259259259259259,0.075
+What factors affect the accuracy of the intelligent acoustic emission source locator in locating acoustic emissions on aircraft frame structures?,"  The intelligent acoustic emission locator is described in Part I, while Part
+II discusses blind source separation, time delay estimation and location of two
+simultaneously active continuous acoustic emission sources.
+  The location of acoustic emission on complicated aircraft frame structures is
+a difficult problem of non-destructive testing. This article describes an
+intelligent acoustic emission source locator. The intelligent locator comprises
+a sensor antenna and a general regression neural network, which solves the
+location problem based on learning from examples. Locator performance was
+tested on different test specimens. Tests have shown that the accuracy of
+location depends on sound velocity and attenuation in the specimen, the
+dimensions of the tested area, and the properties of stored data. The location
+accuracy achieved by the intelligent locator is comparable to that obtained by
+the conventional triangulation method, while the applicability of the
+intelligent locator is more general since analysis of sonic ray paths is
+avoided. This is a promising method for non-destructive testing of aircraft
+frame structures by the acoustic emission method.
+",0704.0047,"The accuracy of the intelligent acoustic emission source locator in locating acoustic emissions on aircraft frame structures depends on sound velocity and attenuation in the specimen, the dimensions of the tested area, and the properties of stored data.",0.22,0.73,0.02631578947368421,0.06432748538011696,0.02631578947368421,0.011695906432748537
+What are the advantages of using a Markov Chain Monte Carlo approach in signal evaluation for white dwarf binaries in the Mock LISA Data Challenges?,"  We report on the analysis of selected single source data sets from the first
+round of the Mock LISA Data Challenges (MLDC) for white dwarf binaries. We
+implemented an end-to-end pipeline consisting of a grid-based coherent
+pre-processing unit for signal detection, and an automatic Markov Chain Monte
+Carlo post-processing unit for signal evaluation. We demonstrate that signal
+detection with our coherent approach is secure and accurate, and is increased
+in accuracy and supplemented with additional information on the signal
+parameters by our Markov Chain Monte Carlo approach. We also demonstrate that
+the Markov Chain Monte Carlo routine is additionally able to determine
+accurately the noise level in the frequency window of interest.
+",0704.0048,"The Markov Chain Monte Carlo (MCMC) approach offers several advantages for signal evaluation in white dwarf binaries as part of the Mock LISA Data Challenges (MLDC). Firstly, it provides accurate signal detection and improves the accuracy of the coherent approach used in the first stage of the pipeline. Secondly, the MCMC method can determine the noise level in the frequency domain, which is crucial for the second round of the MLDC involving a galactic white dwarf binary population. Thirdly, the MCMC technique is used to obtain probability density functions on the model parameters, allowing for a more comprehensive understanding of the system. Finally, the MCMC algorithm can identify the most promising individual candidate signals, and its automatic nature streamlines the data analysis process.",0.7,0.51,0.056910569105691054,0.02564102564102564,0.06504065040650407,0.05128205128205128
+What is the total number of isomorphism classes of smooth Fano d-polytopes that have been classified using the algorithm presented in the study for d<=7?,"  We present an algorithm that produces the classification list of smooth Fano
+d-polytopes for any given d. The input of the algorithm is a single number,
+namely the positive integer d. The algorithm has been used to classify smooth
+Fano d-polytopes for d<=7. There are 7622 isomorphism classes of smooth Fano
+6-polytopes and 72256 isomorphism classes of smooth Fano 7-polytopes.
+",0704.0049,"The algorithm presented in the study has classified a total of 7622 isomorphism classes of smooth Fano 6-polytopes and 72,256 isomorphism classes of smooth Fano 7-polytopes, resulting in a total of 79,878 isomorphism classes for d <= 7.",0.1,0.18,0.030303030303030304,0.07017543859649122,0.18181818181818182,0.08771929824561403
+What are the potential applications of blind source separation using independent component analysis in non-destructive testing of aircraft frame structures through acoustic emission analysis?,"  Part I describes an intelligent acoustic emission locator, while Part II
+discusses blind source separation, time delay estimation and location of two
+continuous acoustic emission sources.
+  Acoustic emission (AE) analysis is used for characterization and location of
+developing defects in materials. AE sources often generate a mixture of various
+statistically independent signals. A difficult problem of AE analysis is
+separation and characterization of signal components when the signals from
+various sources and the mode of mixing are unknown. Recently, blind source
+separation (BSS) by independent component analysis (ICA) has been used to solve
+these problems. The purpose of this paper is to demonstrate the applicability
+of ICA to locate two independent simultaneously active acoustic emission
+sources on an aluminum band specimen. The method is promising for
+non-destructive testing of aircraft frame structures by acoustic emission
+analysis.
+",0704.0050,"The potential applications of blind source separation (BSS) using independent component analysis (ICA) in non-destructive testing of aircraft frame structures through acoustic emission analysis include:
+
+- Separation and characterization of signal components from various sources, even when the signals are mixed and the mode of mixing is unknown.
+- Location and characterization of defects, such as cracks or leaks, by analyzing acoustic emissions (AE) generated by these defects.
+- Improved accuracy in locating continuous AE sources on one-dimensional specimens, such as aluminum bands.
+- The ability to locate more than one source simultaneously on a test specimen, making it a promising method for aircraft and airspace structural testing.
+- Enhanced defect detection and characterization in materials with complicated geometries, such as aircraft frame structures involving bolts, fasteners, and plates.",0.66,0.62,0.031746031746031744,0.072992700729927,0.03968253968253968,0.043795620437956206
+How can physicists effectively explain the phenomenon of quantum teleportation to non-scientists using a novel visualization method?,"  A novel way of picturing the processing of quantum information is described,
+allowing a direct visualization of teleportation of quantum states and
+providing a simple and intuitive understanding of this fascinating phenomenon.
+The discussion is aimed at providing physicists a method of explaining
+teleportation to non-scientists. The basic ideas of quantum physics are first
+explained in lay terms, after which these ideas are used with a graphical
+description, out of which teleportation arises naturally.
+",0704.0051,"Physicists can explain the concept of quantum teleportation to non-scientists by first introducing the basic ideas of quantum physics in layman's terms and then using a graphical description for a more intuitive understanding. This novel visualization method involves using simple diagrams to represent states of multiple quantum coins held by two different parties. By illustrating how these diagrams depict quantum states and how they change during measurements, physicists can provide a direct visualization of teleportation. This approach relies mostly on ""pictures"" rather than complex mathematical equations, making it easier for non-scientists to grasp the fascinating phenomenon of quantum teleportation.",0.51,0.35,0.06930693069306931,0.05333333333333334,0.0297029702970297,0.02666666666666667
+What is the method used to construct a unitary representation of the isometry group of a Lorentzian manifold in scalar quantum field theory on static space-times?,"  We study space-time symmetries in scalar quantum field theory (including
+interacting theories) on static space-times. We first consider Euclidean
+quantum field theory on a static Riemannian manifold, and show that the
+isometry group is generated by one-parameter subgroups which have either
+self-adjoint or unitary quantizations. We analytically continue the
+self-adjoint semigroups to one-parameter unitary groups, and thus construct a
+unitary representation of the isometry group of the associated Lorentzian
+manifold. The method is illustrated for the example of hyperbolic space, whose
+Lorentzian continuation is Anti-de Sitter space.
+",0704.0052,The method used to construct a unitary representation of the isometry group of a Lorentzian manifold in scalar quantum field theory on static space-times involves analytically continuing self-adjoint semigroups to one-parameter unitary groups.,0.19,0.4,0.027777777777777776,0.05319148936170213,0.05555555555555555,0.07446808510638298
+What are the various relationships between different types of special Finsler manifolds introduced in the paper?,"  The aim of the present paper is to provide a global presentation of the
+theory of special Finsler manifolds. We introduce and investigate globally (or
+intrinsically, free from local coordinates) many of the most important and most
+commonly used special Finsler manifolds: locally Minkowskian, Berwald,
+Landesberg, general Landesberg, $P$-reducible, $C$-reducible,
+semi-$C$-reducible, quasi-$C$-reducible, $P^{*}$-Finsler, $C^{h}$-recurrent,
+$C^{v}$-recurrent, $C^{0}$-recurrent, $S^{v}$-recurrent, $S^{v}$-recurrent of
+the second order, $C_{2}$-like, $S_{3}$-like, $S_{4}$-like, $P_{2}$-like,
+$R_{3}$-like, $P$-symmetric, $h$-isotropic, of scalar curvature, of constant
+curvature, of $p$-scalar curvature, of $s$-$ps$-curvature. The global
+definitions of these special Finsler manifolds are introduced. Various
+relationships between the different types of the considered special Finsler
+manifolds are found. Many local results, known in the literature, are proved
+globally and several new results are obtained. As a by-product, interesting
+identities and properties concerning the torsion tensor fields and the
+curvature tensor fields are deduced. Although our investigation is entirely
+global, we provide; for comparison reasons, an appendix presenting a local
+counterpart of our global approach and the local definitions of the special
+Finsler spaces considered.
+",0704.0053,"The paper introduces and investigates various types of special Finsler manifolds, including locally Minkowskian, Berwald, Landesberg, general Landesberg, P-reducible, C-reducible, semi-C-reducible, quasi-C-reducible, P*-Finsler, Ch-recurrent, Cv-recurrent, C0-recurrent, Sv-recurrent, and Sv-recurrent of the second order. 
+
+It also defines and explores specific types within this category, such as C2-like, S3-like, S4-like, P2-like, R3-like, P-symmetric, and h-isotropic Finsler manifolds. 
+
+The paper then delves into the relationships between these different types of special Finsler manifolds. It mentions that various relationships between the different types are found and discussed in a dedicated section. While specific details of these relationships are not provided in the given context, the paper emphasizes that it offers a global investigation and proves several new results.",0.43,0.71,0.04,0.06578947368421052,0.088,0.05921052631578947
+"What are the interpolation properties of elements in the Hardy-Lorentz spaces $H^{p,q}(R^n)$ with $0<p\le 1$ and $0<q\le \infty$?","  In this paper we consider the Hardy-Lorentz spaces $H^{p,q}(R^n)$, with
+$0<p\le 1$, $0<q\le \infty$. We discuss the atomic decomposition of the
+elements in these spaces, their interpolation properties, and the behavior of
+singular integrals and other operators acting on them.
+",0704.0054,"The interpolation properties of elements in the Hardy-Lorentz spaces $H^{p,q}(R^n)$ with $0 < p \leq 1$ and $0 < q \leq \infty$ are discussed in the paper. The atomic decomposition is key to dealing with interpolation, as neither truncations nor reiteration apply in this context. The paper identifies the intermediate spaces of a couple of Hardy-Lorentz spaces with the same first index $p \leq 1$. Specifically, given $0 < q1 < q < q2 \leq \infty$, and defining $0 < \eta < 1$ by the relation $1/q = (1 - \eta)/q1 + \eta/q2$, the paper shows that, with equivalent quasinorms, $H^{p,q} = (H^{p,q1}, H^{p,q2})^\eta,q$.",0.29,0.16,0.0684931506849315,0.16666666666666666,0.136986301369863,0.1111111111111111
+How does the use of a van der Waals density functional (vdW-DF) approach affect the stability and structural parameters of graphite and potassium-intercalated graphite compared to traditional semilocal density functional theory calculations?,"  Potassium intercalation in graphite is investigated by first-principles
+theory. The bonding in the potassium-graphite compound is reasonably well
+accounted for by traditional semilocal density functional theory (DFT)
+calculations. However, to investigate the intercalate formation energy from
+pure potassium atoms and graphite requires use of a description of the graphite
+interlayer binding and thus a consistent account of the nonlocal dispersive
+interactions. This is included seamlessly with ordinary DFT by a van der Waals
+density functional (vdW-DF) approach [Phys. Rev. Lett. 92, 246401 (2004)]. The
+use of the vdW-DF is found to stabilize the graphite crystal, with crystal
+parameters in fair agreement with experiments. For graphite and
+potassium-intercalated graphite structural parameters such as binding
+separation, layer binding energy, formation energy, and bulk modulus are
+reported. Also the adsorption and sub-surface potassium absorption energies are
+reported. The vdW-DF description, compared with the traditional semilocal
+approach, is found to weakly soften the elastic response.
+",0704.0055,"The use of a van der Waals density functional (vdW-DF) approach is found to stabilize the graphite crystal, with crystal parameters in fair agreement with experiments. This is in contrast to traditional semilocal density functional theory (DFT) calculations, which fail to describe graphite accurately due to their inability to treat weak vdW binding correctly. 
+
+The vdW-DF approach is particularly important for investigating the intercalation process of potassium in graphite, as it includes the dispersive interactions needed for a consistent study. It predicts a stabilized bulk system for clean graphite, with equilibrium crystal parameters, while traditional semilocal DFT implementations do not. 
+
+Additionally, the vdW-DF description provides insights into the nature of bonding in graphite and potassium-intercalated graphite (C8K), as well as the process of intercalation through potassium adsorption and absorption. It allows for a comparison of graphite and C8K properties, which is essential for understanding the effects of intercalation. 
+
+In terms of structural parameters, the vdW-DF approach yields results for binding separation, layer binding energy, formation energy, and bulk modulus for both graphite and potassium-intercalated graphite. These parameters are not accurately described by traditional semilocal DFT methods due to their limitations in treating weak vdW interactions. 
+
+In summary, the vdW-DF approach improves the stability and accuracy of structural parameters for graphite and potassium-intercalated graphite compared to traditional semilocal DFT calculations, making it a valuable tool for studying these materials.",0.88,0.67,0.038135593220338986,0.05194805194805195,0.0211864406779661,0.05194805194805195
+"What are the prominent features of the nematic liquid crystal model studied, including pressure-driven reentrant melting and the stabilization of a columnar phase?","  We study a simple model of a nematic liquid crystal made of parallel
+ellipsoidal particles interacting via a repulsive Gaussian law. After
+identifying the relevant solid phases of the system through a careful
+zero-temperature scrutiny of as many as eleven candidate crystal structures, we
+determine the melting temperature for various pressure values, also with the
+help of exact free energy calculations. Among the prominent features of this
+model are pressure-driven reentrant melting and the stabilization of a columnar
+phase for intermediate temperatures.
+",0704.0056,"The prominent features of the nematic liquid crystal model studied include pressure-driven reentrant melting and the stabilization of a columnar phase for intermediate temperatures. The model consists of equally-oriented hard ellipsoids with an attractive spherical well, and it exhibits a phase as well as pressure-driven reentrance of the nematic phase. The interest in the GCN model is purely theoretical, as hard-core ellipsoids provide a more physically realistic model of liquid crystals.",0.31,0.47,0.06666666666666667,0.023809523809523808,0.013333333333333334,0.03571428571428571
+How does the interplay of crystal field splitting and Hund coupling affect the phase boundaries and orbital fillings in a two-orbital model with two electrons or holes in the e_g shell?,"  We study the interplay of crystal field splitting and Hund coupling in a
+two-orbital model which captures the essential physics of systems with two
+electrons or holes in the e_g shell. We use single site dynamical mean field
+theory with a recently developed impurity solver which is able to access strong
+couplings and low temperatures. The fillings of the orbitals and the location
+of phase boundaries are computed as a function of Coulomb repulsion, exchange
+coupling and crystal field splitting. We find that the Hund coupling can drive
+the system into a novel Mott insulating phase with vanishing orbital
+susceptibility. Away from half-filling, the crystal field splitting can induce
+an orbital selective Mott state.
+",0704.0057,"The interplay of crystal field splitting and Hund coupling in a two-orbital model with two electrons or holes in the eg shell can lead to two distinct Mott insulating phases. The crystal field splitting can induce an orbital-selective Mott transition, and the Hund coupling can drive the system into a novel Mott insulating phase. The fillings of the orbitals and the location of phase boundaries are computed as functions of Coulomb repulsion, exchange coupling, and crystal field splitting.",0.32,0.55,0.0625,0.043478260869565216,0.05,0.017391304347826087
+What experiments could be conducted to test the claims made about the rarity of intelligent life in the universe and the implications of the excess of matter over antimatter on the acceleration of the universe?,"  I shall present three arguments for the proposition that intelligent life is
+very rare in the universe. First, I shall summarize the consensus opinion of
+the founders of the Modern Synthesis (Simpson, Dobzhanski, and Mayr) that the
+evolution of intelligent life is exceedingly improbable. Second, I shall
+develop the Fermi Paradox: if they existed they'd be here. Third, I shall show
+that if intelligent life were too common, it would use up all available
+resources and die out. But I shall show that the quantum mechanical principle
+of unitarity (actually a form of teleology!) requires intelligent life to
+survive to the end of time. Finally, I shall argue that, if the universe is
+indeed accelerating, then survival to the end of time requires that intelligent
+life, though rare, to have evolved several times in the visible universe. I
+shall argue that the acceleration is a consequence of the excess of matter over
+antimatter in the universe. I shall suggest experiments to test these claims.
+",0704.0058,"The paper proposes testing the hypothesis that the excess of matter over antimatter is responsible for the universal acceleration. This can be done using a modification of the equipment that originally discovered the Cosmic Microwave Background Radiation (CMBR). The experiment would involve testing whether the excess of matter over antimatter is generated by a special boundary condition on the fields of the Standard Model. 
+
+Additionally, the paper mentions that the hypothesis of intelligent life being rare in the universe could be tested by looking for other intelligent species in the universe. However, due to the limited resources argument, these intelligent life forms are expected to be rare, with roughly one species per Hubble volume. As a result, any potential observations of other intelligent life forms would be limited by the speed of light and the universal acceleration.",0.59,0.65,0.058394160583941604,0.054878048780487805,0.021897810218978103,0.04878048780487805
+How does the surface gravity of the secondary star in a single-lined eclipsing binary undergoing total eclipses constrain its position in the mass-radius diagram?,"  We derive masses and radii for both components in the single-lined eclipsing
+binary HAT-TR-205-013, which consists of a F7V primary and a late M-dwarf
+secondary. The system's period is short, $P=2.230736 \pm 0.000010$ days, with
+an orbit indistinguishable from circular, $e=0.012 \pm 0.021$. We demonstrate
+generally that the surface gravity of the secondary star in a single-lined
+binary undergoing total eclipses can be derived from characteristics of the
+light curve and spectroscopic orbit. This constrains the secondary to a unique
+line in the mass-radius diagram with $M/R^2$ = constant. For HAT-TR-205-013, we
+assume the orbit has been tidally circularized, and that the primary's rotation
+has been synchronized and aligned with the orbital axis. Our observed line
+broadening, $V_{\rm rot} \sin i_{\rm rot} = 28.9 \pm 1.0$ \kms, gives a primary
+radius of $R_{\rm A} = 1.28 \pm 0.04$ \rsun. Our light curve analysis leads to
+the radius of the secondary, $R_{\rm B} = 0.167 \pm 0.006$ \rsun, and the
+semimajor axis of the orbit, $a = 7.54 \pm 0.30 \rsun = 0.0351 \pm 0.0014$ AU.
+Our single-lined spectroscopic orbit and the semimajor axis then yield the
+individual masses, $M_{\rm B} = 0.124 \pm 0.010$ \msun and $M_{\rm A} = 1.04
+\pm 0.13$ \msun. Our result for HAT-TR-205-013 B lies above the theoretical
+mass-radius models from the Lyon group, consistent with results from
+double-lined eclipsing binaries. The method we describe offers the opportunity
+to study the very low end of the stellar mass-radius relation.
+",0704.0059,The surface gravity of the secondary star in a single-lined eclipsing binary can be determined using characteristics of the light curve and the spectroscopic orbit. This constrains the star to a unique line in the mass-radius diagram.,0.17,0.73,0.05128205128205128,0.07425742574257425,0.0,0.12376237623762376
+What are the implications of retardation effects and Coulomb distortion on the Coulomb excitation of low-lying states of unstable nuclei in intermediate energy collisions?,"  We investigate the Coulomb excitation of low-lying states of unstable nuclei
+in intermediate energy collisions ($E_{lab}\sim10-500$ MeV/nucleon). It is
+shown that the cross sections for the $E1$ and $E2$ transitions are larger at
+lower energies, much less than 10 MeV/nucleon. Retardation effects and Coulomb
+distortion are found to be both relevant for energies as low as 10 MeV/nucleon
+and as high as 500 MeV/nucleon. Implications for studies at radioactive beam
+facilities are discussed.
+",0704.0060,"Retardation effects and Coulomb distortion are crucial factors in Coulomb excitation, significantly impacting the cross sections for E1 and E2 transitions. These effects are relevant across a broad energy range, from as low as 10 MeV/nucleon to as high as 500 MeV/nucleon. Their influence on the cross sections highlights the importance of considering these factors when studying unstable nuclei through Coulomb excitation, especially in the context of radioactive beam facilities and understanding the behavior of low-lying nuclear states.",0.35,0.32,0.025974025974025976,0.06944444444444445,0.09090909090909091,0.1111111111111111
+What are the main techniques used in the investigation of $\lambda$-intersection bodies and how do they contribute to the understanding of this class of geometric objects?,"  Intersection bodies represent a remarkable class of geometric objects
+associated with sections of star bodies and invoking
+  Radon transforms, generalized cosine transforms, and the relevant Fourier
+analysis. The main focus of this article is interrelation between generalized
+cosine transforms of different kinds in the context of their application to
+investigation of a certain family of intersection bodies, which we call
+$\lam$-intersection bodies. The latter include $k$-intersection bodies (in the
+sense of A. Koldobsky) and unit balls of finite-dimensional subspaces of
+$L_p$-spaces. In particular, we show that restrictions onto lower dimensional
+subspaces of the spherical Radon transforms and the generalized cosine
+transforms preserve their integral-geometric structure. We apply this result to
+the study of sections of $\lam$-intersection bodies. New characterizations of
+this class of bodies are obtained and examples are given. We also review some
+known facts and give them new proofs.
+",0704.0061,"The investigation of λ-intersection bodies involves utilizing auxiliary statements from Section 3 of the provided text, which includes the famous embedding of Zhang's class with a generalization to cases where k is replaced by any λ (0, n). The text also mentions that examples of λ-intersection bodies are given, utilizing generalized cosine transforms. Additionally, the paper focuses on the intimate connection between intersection bodies, spherical Radon transforms, and generalized cosine transforms. These transforms play a crucial role in expressing the volume of central cross-sections of star bodies.",0.42,0.63,0.09090909090909091,0.06521739130434782,0.03409090909090909,0.036231884057971016
+What is the expected maximum memory used to decode a sequence of length $n$ with an $m$-state HMM using the on-line Viterbi algorithm compared to the classical Viterbi algorithm?,"  In this paper, we introduce the on-line Viterbi algorithm for decoding hidden
+Markov models (HMMs) in much smaller than linear space. Our analysis on
+two-state HMMs suggests that the expected maximum memory used to decode
+sequence of length $n$ with $m$-state HMM can be as low as $\Theta(m\log n)$,
+without a significant slow-down compared to the classical Viterbi algorithm.
+Classical Viterbi algorithm requires $O(mn)$ space, which is impractical for
+analysis of long DNA sequences (such as complete human genome chromosomes) and
+for continuous data streams. We also experimentally demonstrate the performance
+of the on-line Viterbi algorithm on a simple HMM for gene finding on both
+simulated and real DNA sequences.
+",0704.0062,"The expected maximum memory used to decode a sequence of length $n$ with an $m$-state HMM using the on-line Viterbi algorithm is Θ(m log n), while the classical Viterbi algorithm requires O(mn) space.",0.18,0.52,0.06666666666666667,0.06422018348623854,0.1,0.06422018348623854
+What are the ongoing efforts to substantiate the early findings of possible neutrinoless double beta decay from 76Ge?,"  Neutrinoless double beta decay is one of the most sensitive approaches in
+non-accelerator particle physics to take us into a regime of physics beyond the
+standard model. This article is a brief review of the experiments in search of
+neutrinoless double beta decay from 76Ge. Following a brief introduction of the
+process of double beta decay from 76Ge, the results of the very first
+experiments IGEX and Heidelberg-Moscow which give indications of the existence
+of possible neutrinoless double beta decay mode has been reviewed. Then ongoing
+efforts to substantiate the early findings are presented and the Majorana
+experiment as a future experimental approach which will allow a very detailed
+study of the neutrinoless decay mode is discussed.
+",0704.0063,The text mentions that the Majorana experiment is presented as an ongoing effort to substantiate early findings of possible neutrinoless double beta decay from 76Ge. This experiment is described as a future experimental approach that will allow for a detailed study of the 0ν decay mode.,0.23,0.48,0.06818181818181818,0.05128205128205128,0.06818181818181818,0.06837606837606838
+What is the geometrical interpretation of the nilpotent symmetry invariance in the Lagrangian densities of (non-)Abelian 1-form gauge theories within the superfield formalism?,"  We capture the off-shell as well as the on-shell nilpotent
+Becchi-Rouet-Stora-Tyutin (BRST) and anti-BRST symmetry invariance of the
+Lagrangian densities of the four (3 + 1)-dimensional (4D) (non-)Abelian 1-form
+gauge theories within the framework of the superfield formalism. In particular,
+we provide the geometrical interpretations for (i) the above nilpotent symmetry
+invariance, and (ii) the above Lagrangian densities, in the language of the
+specific quantities defined in the domain of the above superfield formalism.
+Some of the subtle points, connected with the 4D (non-)Abelian 1-form gauge
+theories, are clarified within the framework of the above superfield formalism
+where the 4D ordinary gauge theories are considered on the (4, 2)-dimensional
+supermanifold parametrized by the four spacetime coordinates x^\mu (with \mu =
+0, 1, 2, 3) and a pair of Grassmannian variables \theta and \bar\theta. One of
+the key results of our present investigation is a great deal of simplification
+in the geometrical understanding of the nilpotent (anti-)BRST symmetry
+invariance.
+",0704.0064,The geometrical interpretation of the nilpotent symmetry invariance in the Lagrangian densities of (non-)Abelian 1-form gauge theories is provided within the framework of the superfield formalism.,0.15,0.48,0.08,0.034722222222222224,0.08,0.06944444444444445
+What is the combinatorial rule for calculating the Littlewood-Richardson polynomials in the family of rings of symmetric functions introduced in the abstract?,"  We introduce a family of rings of symmetric functions depending on an
+infinite sequence of parameters. A distinguished basis of such a ring is
+comprised by analogues of the Schur functions. The corresponding structure
+coefficients are polynomials in the parameters which we call the
+Littlewood-Richardson polynomials. We give a combinatorial rule for their
+calculation by modifying an earlier result of B. Sagan and the author. The new
+rule provides a formula for these polynomials which is manifestly positive in
+the sense of W. Graham. We apply this formula for the calculation of the
+product of equivariant Schubert classes on Grassmannians which implies a
+stability property of the structure coefficients. The first manifestly positive
+formula for such an expansion was given by A. Knutson and T. Tao by using
+combinatorics of puzzles while the stability property was not apparent from
+that formula. We also use the Littlewood-Richardson polynomials to describe the
+multiplication rule in the algebra of the Casimir elements for the general
+linear Lie algebra in the basis of the quantum immanants constructed by A.
+Okounkov and G. Olshanski.
+",0704.0065,"The main result of the paper is a combinatorial rule for calculating the Littlewood-Richardson polynomials, which provides a manifestly positive formula. This formula writes cν λµ(a) as a polynomial in the differences ai − aj, i < j, with positive integer coefficients.",0.21,0.69,0.1,0.045714285714285714,0.025,0.07428571428571429
+What are the possible commutation relations in the Lagrangian quantum theory of free fields and how do they relate to the Heisenberg equations and uniqueness requirements for operators?,"  Possible (algebraic) commutation relations in the Lagrangian quantum theory
+of free (scalar, spinor and vector) fields are considered from mathematical
+view-point. As sources of these relations are employed the Heisenberg
+equations/relations for the dynamical variables and a specific condition for
+uniqueness of the operators of the dynamical variables (with respect to some
+class of Lagrangians). The paracommutation relations or some their
+generalizations are pointed as the most general ones that entail the validity
+of all Heisenberg equations. The simultaneous fulfillment of the Heisenberg
+equations and the uniqueness requirement turn to be impossible. This problem is
+solved via a redefinition of the dynamical variables, similar to the normal
+ordering procedure and containing it as a special case. That implies
+corresponding changes in the admissible commutation relations. The introduction
+of the concept of the vacuum makes narrow the class of the possible commutation
+relations; in particular, the mentioned redefinition of the dynamical variables
+is reduced to normal ordering. As a last restriction on that class is imposed
+the requirement for existing of an effective procedure for calculating vacuum
+mean values. The standard bilinear commutation relations are pointed as the
+only known ones that satisfy all of the mentioned conditions and do not
+contradict to the existing data.
+",0704.0066,"The paper discusses possible (algebraic) commutation relations in the Lagrangian quantum theory of free fields, including scalar, spinor, and vector fields. These relations are considered from a purely mathematical perspective, without exploring their physical consequences. 
+
+The main sources for these commutation relations are the Heisenberg equations/relations for the dynamical variables and a specific condition for the uniqueness of the operators of these dynamical variables with respect to a certain class of Lagrangians. The paper specifically mentions the ""paracommutation relations"" as a possible outcome when considering the Heisenberg equations related to the momentum operator and a ""charge-symmetric"" Lagrangian. 
+
+The paper also mentions that the specific commutation relations depend on the initial conditions and the specific form of the Lagrangian used. The ""charge-symmetric"" Lagrangians, for example, seem to best describe free fields, and the commutation relations arising from them are further explored in the paper.",0.57,0.78,0.0273972602739726,0.03864734299516908,0.02054794520547945,0.014492753623188406
+How do initial atomic-scale random fluctuations affect the correlation lengths of spatial order in self-assembled quantum dots?,"  Epitaxial self-assembled quantum dots (SAQDs) are of interest for
+nanostructured optoelectronic and electronic devices such as lasers,
+photodetectors and nanoscale logic. Spatial order and size order of SAQDs are
+important to the development of usable devices. It is likely that these two
+types of order are strongly linked; thus, a study of spatial order will also
+have strong implications for size order. Here a study of spatial order is
+undertaken using a linear analysis of a commonly used model of SAQD formation
+based on surface diffusion. Analytic formulas for film-height correlation
+functions are found that characterize quantum dot spatial order and
+corresponding correlation lengths that quantify order. Initial atomic-scale
+random fluctuations result in relatively small correlation lengths (about two
+dots) when the effect of a wetting potential is negligible; however, the
+correlation lengths diverge when SAQDs are allowed to form at a near-critical
+film height. The present work reinforces previous findings about anisotropy and
+SAQD order and presents as explicit and transparent mechanism for ordering with
+corresponding analytic equations. In addition, SAQD formation is by its nature
+a stochastic process, and various mathematical aspects regarding statistical
+analysis of SAQD formation and order are presented.
+",0704.0067,Initial atomic-scale random fluctuations result in relatively small correlation lengths (about two dots) when the effect of a wetting potential is negligible.,0.14,0.91,0.08695652173913043,0.0707070707070707,0.043478260869565216,0.015151515151515152
+What open question from Petojevic 2006 did the authors answer in this note?,"  In the article [Petojevic 2006], A. Petojevi\' c verified useful properties
+of the $K_{i}(z)$ functions which generalize Kurepa's [Kurepa 1971] left
+factorial function. In this note, we present simplified proofs of two of these
+results and we answer the open question stated in [Petojevic 2006]. Finally, we
+discuss the differential transcendency of the $K_{i}(z)$ functions.
+",0704.0068,The authors answered the open question stated in Petojevic 2006 regarding the differential transcendency of the Ki(z) functions.,0.12,0.27,0.0625,0.0625,0.0625,0.0625
+What conditions must be met in order for a subsheaf to have the same cohomology as the sheaf containing it in the context of constructing invariant dynamical objects for a smooth self map of a compact manifold?,"  The goal of this paper is to construct invariant dynamical objects for a (not
+necessarily invertible) smooth self map of a compact manifold. We prove a
+result that takes advantage of differences in rates of expansion in the terms
+of a sheaf cohomological long exact sequence to create unique lifts of finite
+dimensional invariant subspaces of one term of the sequence to invariant
+subspaces of the preceding term. This allows us to take invariant cohomological
+classes and under the right circumstances construct unique currents of a given
+type, including unique measures of a given type, that represent those classes
+and are invariant under pullback. A dynamically interesting self map may have a
+plethora of invariant measures, so the uniquess of the constructed currents is
+important. It means that if local growth is not too big compared to the growth
+rate of the cohomological class then the expanding cohomological class gives
+sufficient ""marching orders"" to the system to prohibit the formation of any
+other such invariant current of the same type (say from some local dynamical
+subsystem). Because we use subsheaves of the sheaf of currents we give
+conditions under which a subsheaf will have the same cohomology as the sheaf
+containing it. Using a smoothing argument this allows us to show that the sheaf
+cohomology of the currents under consideration can be canonically identified
+with the deRham cohomology groups. Our main theorem can be applied in both the
+smooth and holomorphic setting.
+",0704.0069,"The text provided mentions that when using subsheaves of the sheaf of currents, specific conditions must be met for a subsheaf to have the same cohomology as the containing sheaf. These conditions are related to local dynamical behavior and involve the uniqueness of ""cohomological classes of a given type."" 
+
+The text also mentions that for degree one currents, no restrictions on local growth rates are necessary, implying that this condition is specific to higher-degree currents. 
+
+However, the provided text does not explicitly state the conditions required for a subsheaf to have the same cohomology as its containing sheaf. It focuses more on the results and implications of having invariant dynamical objects and the use of sheaf cohomology in this context.",0.44,0.94,0.049586776859504134,0.06198347107438017,0.0,0.004132231404958678
+What are the implications of the dipole transition frequencies matching the oscillation of the persistent current in narrow quantum rings with two electrons?,"  The fractional Aharonov-Bohm oscillation (FABO) of narrow quantum rings with
+two electrons has been studied and has been explained in an analytical way, the
+evolution of the period and amplitudes against the magnetic field can be
+exactly described. Furthermore, the dipole transition of the ground state was
+found to have essentially two frequencies, their difference appears as an
+oscillation matching the oscillation of the persistent current exactly. A
+number of equalities relating the observables and dynamical parameters have
+been found.
+",0704.0070,"The paper discusses a new kind of oscillation found in the dipole transition of two-electron (2-e) narrow rings, where the emitted or absorbed photon has two distinct energies. The difference between these two energies appears as an oscillation that matches exactly the oscillation of the persistent current, denoted as Jo. This finding has implications for understanding the physical behavior of quantum rings with a small number of electrons in a magnetic field. 
+
+The dipole transition frequencies matching the oscillation of the persistent current indicates a relationship between the electromagnetic properties and the current flow within the ring. This suggests that the emission or absorption of photons at specific energies can influence or be influenced by the persistent current, potentially providing a way to manipulate or control the current through optical means. 
+
+Furthermore, the paper mentions that this phenomenon can be used to determine the magnitude of the persistent current through measuring the difference between the two frequencies. This implies that the dipole transition frequencies can be utilized as a tool to indirectly measure or infer the strength of the current within the ring. 
+
+Overall, the implications of this finding contribute to a better understanding of the fundamental behavior of quantum rings and may have potential applications in the control and manipulation of electron currents in nanoscale devices.",0.84,0.38,0.045871559633027525,0.06172839506172839,0.01834862385321101,0.037037037037037035
+What are some common features and differences between pairs of languages from the World Atlas of Language Structures?,"  No abstract given; compares pairs of languages from World Atlas of Language
+Structures.
+",0704.0071,"The World Atlas of Language Structures (WALS) is a valuable resource for comparing and analyzing the structural features of different languages. In the provided text, several language pairs are examined for their similarities and differences based on the WALS data. 
+
+Common features and differences between language pairs from the WALS include: 
+
+**Similarities**: 
+- **Typological Similarity**: Unrelated languages can exhibit similar typological profiles, indicating that they may share certain structural characteristics despite having different genealogical origins. 
+- **Exoticness**: The concept of exoticness is relative. For example, Burushaski is considered exotic from a Samoan perspective, but less so from the perspective of Telugu. 
+
+**Differences**: 
+- **Genealogical Relatedness**: Some language pairs in the sample are from the same language family or genus, while others are from different families, illustrating varying degrees of genealogical relatedness. 
+- **Structural Diversity**: Languages can differ significantly in their structural characteristics, even within the same language family. This is reflected in the '20 most divergent language pairs' list, which includes languages with as low as 10.4% similarity in their typological profiles. 
+- **Vocabulary and Typological Similarity**: The amount of shared basic vocabulary and typological similarity may be correlated. However, unrelated languages can sometimes exhibit greater typological similarities than related languages, as seen in Table 4. 
+
+Overall, the WALS data and the analysis provided in the text offer insights into the complex relationships between languages, highlighting both their commonalities and unique features.",1.0,0.09,0.05357142857142857,0.0,0.03125,0.07692307692307693
+How does the proposed method for finding solutions of nonlinear PDEs in closed form differ from existing methods?,"  In present paper we propose seemingly new method for finding solutions of
+some types of nonlinear PDEs in closed form. The method is based on
+decomposition of nonlinear operators on sequence of operators of lower orders.
+It is shown that decomposition process can be done by iterative procedure(s),
+each step of which is reduced to solution of some auxiliary PDEs system(s) for
+one dependent variable. Moreover, we find on this way the explicit expression
+of the first-order PDE(s) for first integral of decomposable initial PDE.
+Remarkably that this first-order PDE is linear if initial PDE is linear in its
+highest derivatives.
+  The developed method is implemented in Maple procedure, which can really
+solve many of different order PDEs with different number of independent
+variables. Examples of PDEs with calculated their general solutions demonstrate
+a potential of the method for automatic solving of nonlinear PDEs.
+",0704.0072,"The proposed method for finding solutions to nonlinear partial differential equations (PDEs) in closed form differs from existing methods in its approach to handling the complexity of such equations. 
+
+While existing methods often focus on specific types of PDEs or require manual calculations, the new method presented in the paper offers a more general and automated approach:
+1. **Decomposition Method**: The new method is based on the decomposition of nonlinear operators into a sequence of lower-order operators. This decomposition technique allows for finding closed-form solutions for a broader range of PDEs, including those with any order and number of independent variables.
+2. **Automation**: The method has been implemented as a Maple procedure, enabling automatic solving of various nonlinear PDEs. This automation feature streamlines the process and reduces the manual effort required in traditional methods.
+3. **Flexibility**: The decomposition approach is adaptable to different goals. It can be tailored to either decompose a given nonlinear operator or solve a specific PDE by adjusting the scheme accordingly.
+4. **Applicability**: The method is suitable for PDEs with a large number of independent variables and relatively high orders. It is particularly useful when dealing with decomposable PDEs, where the solutions can be obtained by integrating a split system.
+5. **Efficiency**: The paper highlights the efficiency of the method in handling decomposable PDEs, and it can also be applied to certain types of non-decomposable PDEs whose general solutions can be expressed in closed form.
+
+By employing decomposition and automation, the proposed method enhances the ability to tackle a wider range of nonlinear PDEs and provides a more flexible and efficient approach compared to traditional methods.",1.06,0.64,0.03731343283582089,0.06293706293706294,0.026119402985074626,0.03496503496503497
+What is the curvature condition that implies Kollár type cohomology injectivity theorems in the context of a compact Kähler manifold?,"  We treat Koll\'ar's injectivity theorem from the analytic (or differential
+geometric) viewpoint. More precisely, we give a curvature condition which
+implies Koll\'ar type cohomology injectivity theorems. Our main theorem is
+formulated for a compact K\""ahler manifold, but the proof uses the space of
+harmonic forms on a Zariski open set with a suitable complete K\""ahler metric.
+We need neither covering tricks, desingularizations, nor Leray's spectral
+sequence.
+",0704.0073,"The curvature condition that implies Kollár-type cohomology injectivity theorems in the context of a compact Kähler manifold is a topic discussed in the research paper ""Transcendental Approach to Kollár's Injectivity Theorem"" by Osamu Fujino. In this paper, the author treats Kollár's injectivity theorem from an analytic or differential geometric perspective. 
+
+The abstract of the paper states:
+> ""We treat Kollár’s injectivity theorem from the analytic (or differential geometric) viewpoint. More precisely, we give a curvature condition which implies Kollár type cohomology injectivity theorems. Our main theorem is formulated for a compact Kähler manifold, but the proof uses the space of harmonic forms on a Zariski open set with a suitable complete Kähler metric.""
+
+Unfortunately, I cannot find the specific curvature condition mentioned in the provided snippets. It might be discussed in more detail in other sections of the paper or in the full text, which I don't have access to.",0.6,0.39,0.0728476821192053,0.0967741935483871,0.033112582781456956,0.03225806451612903
+What are the applications of Morita $\alpha$-contexts to $\ast$-modules and injective right wide Morita contexts?,"  This paper is an exposition of the so-called injective Morita contexts (in
+which the connecting bimodule morphisms are injective) and Morita
+$\alpha$contexts (in which the connecting bimodules enjoy some local
+projectivity in the sense of Zimmermann-Huisgen). Motivated by situations in
+which only one trace ideal is in action, or the compatibility between the
+bimodule morphisms is not needed, we introduce the notions of Morita
+semi-contexts and Morita data, and investigate them. Injective Morita data will
+be used (with the help of static and adstatic modules) to establish
+equivalences between some intersecting subcategories related to subcategories
+of modules that are localized or colocalized by trace ideals of a Morita datum.
+We end up with applications of Morita $\alpha$-contexts to $\ast$-modules and
+injective right wide Morita contexts.
+",0704.0074,The applications of Morita $\alpha$-contexts to $\ast$-modules and injective right wide Morita contexts are discussed in the context of establishing equivalences between certain subcategories of module categories. This includes intersections of subcategories localized or colocalized by trace ideals of a Morita datum with subcategories defined by $\ast$-modules and injective right wide Morita contexts.,0.22,0.44,0.06,0.072,0.04,0.032
+What are the implications of the experimental progress in heavy baryons on our understanding of their internal structure and quantum numbers?,"  There has been important experimental progress in the sector of heavy baryons
+in the past several years. We study the strong decays of the S-wave, P-wave,
+D-wave and radially excited charmed baryons using the $^3P_0$ model. After
+comparing the calculated decay pattern and total width with the available data,
+we discuss the possible internal structure and quantum numbers of those charmed
+baryons observed recently.
+",0704.0075,"The recent experimental progress in the sector of heavy baryons has led to the observation of several new charmed baryons by the Babar and Belle collaborations. These include Λc(2880, 2940)+, Ξc(2980, 3077)+, and Ωc(2768)0. By studying the strong decays of these particles using models like the 3P0 model, researchers can gain insights into their internal structure and quantum numbers. 
+
+Comparing the calculated decay patterns and total widths with available data helps in understanding the possible internal structure and quantum numbers of these recently observed charmed baryons. This analysis can provide information about the favorable quantum numbers and assignments in the quark model for these particles. 
+
+Additionally, the study of heavy baryons and their strong decays contributes to our understanding of the mass splitting between different baryon states and the accuracy of decay models, such as the 3P0 model, in describing these systems.",0.63,0.33,0.044444444444444446,0.030303030303030304,0.05925925925925926,0.030303030303030304
+What are possible signatures for other sources of CP violation and new flavor-changing operators in precision tests of the Kobayashi-Maskawa model?,"  Precision tests of the Kobayashi-Maskawa model of CP violation are discussed,
+pointing out possible signatures for other sources of CP violation and for new
+flavor-changing operators. The current status of the most accurate tests is
+summarized.
+",0704.0076,"The query is about the possible signatures for other sources of CP violation and new flavor-changing operators in precision tests of the Kobayashi-Maskawa model. 
+
+The provided text mentions that: 
+
+> Precision tests of the Kobayashi-Maskawa model of CP violation are discussed, pointing out possible signatures for other sources of CP violation and for new flavor-changing operators. 
+
+However, it does not explicitly state what these possible signatures are. It does mention that: 
+
+> Diﬀerent values obtained from asymmetries in several processes, or values diﬀerent from those imposed by other constraints, could provide clues for new sources of CP violation and for new ﬂavor-changing interactions. 
+
+So, one possible signature could be finding different values or asymmetries in relevant processes when compared to the predictions or constraints of the Kobayashi-Maskawa model. 
+
+The text also mentions that: 
+
+> An alternative and more direct way, focusing on the origin of CP violation in the CKM framework, is to measure β and γ in a variety of B decay modes. 
+
+This suggests that measuring certain parameters in B decay modes could provide signatures or clues about new sources of CP violation and flavor-changing interactions. 
+
+Unfortunately, without further context or information, I cannot provide more specific or detailed signatures as mentioned in the text.",0.67,0.16,0.05660377358490566,0.05263157894736842,0.014150943396226415,0.02631578947368421
+"Question: How does the introduction of Fundamental Forces in our models of relativity and space-time provide a new perspective on the General Theory of Relativity and Einstein's Equation, ultimately leading to a resolution of the Dark Energy problem?","  The Dark Energy problem is forcing us to re-examine our models and our
+understanding of relativity and space-time. Here a novel idea of Fundamental
+Forces is introduced. This allows us to perceive the General Theory of
+Relativity and Einstein's Equation from a new pesrpective. In addition to
+providing us with an improved understanding of space and time, it will be shown
+how it leads to a resolution of the Dark Energy problem.
+",0704.0077,"The introduction of Fundamental Forces, or ""Universal Force,"" in our models of relativity and space-time offers a novel perspective on the General Theory of Relativity and Einstein's Equation. This new concept, first proposed by Hans Reichenbach, suggests that gravity as a Universal Force disappears and is replaced by geometry in Einstein's Theory of Relativity. 
+
+In the context of the Dark Energy problem, recent data on the accelerating universe has led to the discovery of a new Universal Force of topological origin, which is referred to as the ""causal anomaly."" This causal anomaly is incorporated into the modified theorem, where the full structure is the sum of non-Euclidean geometry and the new Universal Force. 
+
+By accepting this accelerating universe and the associated Dark Energy, we are forced to incorporate the causal anomaly, which provides a resolution to the mystery of Dark Energy's origin. This improved understanding of space and time, along with the modified theorem, leads to a solution for the Dark Energy problem.",0.61,0.3,0.05454545454545454,0.06756756756756757,0.048484848484848485,0.04054054054054054
+"What are the implications of background symmetries on the study of linear perturbations of matched spacetimes, particularly in the context of spherically symmetric n-dimensional spacetimes with boundary layers such as brane world models and shell cosmologies?","  We present a critical review about the study of linear perturbations of
+matched spacetimes including gauge problems. We analyse the freedom introduced
+in the perturbed matching by the presence of background symmetries and revisit
+the particular case of spherically symmetry in n-dimensions. This analysis
+includes settings with boundary layers such as brane world models and shell
+cosmologies.
+",0704.0078,"The presence of background symmetries in the study of linear perturbations of matched spacetimes introduces two main issues. Firstly, it leads to freedom in the matching procedure when preserving symmetries at the background level. Secondly, it has consequences on the perturbation of the matching itself. In the context of spherically symmetric n-dimensional spacetimes with boundary layers, such as brane world models, the linearized matching conditions cannot completely determine the difference in the relative deformation of the hypersurface along the direction of any isometry of the background configuration. This is because the background symmetries introduce arbitrariness, which is independent of both the hypersurface and spacetime gauge freedoms. However, this arbitrariness is gauge-dependent, meaning that a gauge choice can be made to remove it. 
+
+Additionally, in the case of n-dimensional spherically symmetric backgrounds, the authors Mart´ın-Garc´ıa and Gundlach pointed out the lack of justification for specific matching conditions and argued that for spacetimes with boundaries, perturbations should be defined using gauges where the perturbed matching hypersurface aligns with the background.",0.69,0.34,0.06432748538011696,0.034482758620689655,0.029239766081871343,0.0
+What is the classification of nonselfadjoint operator algebras with generators subject to unitary commutation relations in terms of the matrix $u$?,"  We define nonselfadjoint operator algebras with generators $L_{e_1},...,
+L_{e_n}, L_{f_1},...,L_{f_m}$ subject to the unitary commutation relations of
+the form \[ L_{e_i}L_{f_j} = \sum_{k,l} u_{i,j,k,l} L_{f_l}L_{e_k}\] where $u=
+(u_{i,j,k,l})$ is an $nm \times nm$ unitary matrix. These algebras, which
+generalise the analytic Toeplitz algebras of rank 2 graphs with a single
+vertex, are classified up to isometric isomorphism in terms of the matrix $u$.
+",0704.0079,"The classification of nonselfadjoint operator algebras with generators subject to unitary commutation relations is expressed in terms of a nine-fold real parametrization of isomorphism types. The unitary relation algebras, denoted as $Au$, are determined by the left regular representation of the semigroup $F^+_\theta$, whose generators are $e_1, ..., e_n, f_1, ..., f_m$ subject to the relations $e_if_j = f_ke_l$ where $\theta(i, j) = (k, l)$. The matrix $u$ is an $nm \times nm$ unitary matrix, and the algebras are classified up to various forms of isomorphism in terms of these unitary matrices.",0.34,0.27,0.06578947368421052,0.07407407407407407,0.039473684210526314,0.09259259259259259
+"What is the relationship between the globular cluster mass function in the Milky Way and cluster half-mass density, and how does this impact the turnover mass and width of the mass function?","  We show that the globular cluster mass function (GCMF) in the Milky Way
+depends on cluster half-mass density (rho_h) in the sense that the turnover
+mass M_TO increases with rho_h while the width of the GCMF decreases. We argue
+that this is the expected signature of the slow erosion of a mass function that
+initially rose towards low masses, predominantly through cluster evaporation
+driven by internal two-body relaxation. We find excellent agreement between the
+observed GCMF -- including its dependence on internal density rho_h, central
+concentration c, and Galactocentric distance r_gc -- and a simple model in
+which the relaxation-driven mass-loss rates of clusters are approximated by
+-dM/dt = mu_ev ~ rho_h^{1/2}. In particular, we recover the well-known
+insensitivity of M_TO to r_gc. This feature does not derive from a literal
+``universality'' of the GCMF turnover mass, but rather from a significant
+variation of M_TO with rho_h -- the expected outcome of relaxation-driven
+cluster disruption -- plus significant scatter in rho_h as a function of r_gc.
+Our conclusions are the same if the evaporation rates are assumed to depend
+instead on the mean volume or surface densities of clusters inside their tidal
+radii, as mu_ev ~ rho_t^{1/2} or mu_ev ~ Sigma_t^{3/4} -- alternative
+prescriptions that are physically motivated but involve cluster properties
+(rho_t and Sigma_t) that are not as well defined or as readily observable as
+rho_h. In all cases, the normalization of mu_ev required to fit the GCMF
+implies cluster lifetimes that are within the range of standard values
+(although falling towards the low end of this range). Our analysis does not
+depend on any assumptions or information about velocity anisotropy in the
+globular cluster system.
+",0704.0080,"The globular cluster mass function (GCMF) in the Milky Way is dependent on cluster half-mass density, ρh. The peak or turnover mass (MTO) increases, and the width of the distribution decreases as ρh increases. This suggests that the GCMF initially rose towards lower masses and has evolved to its current shape through the slow depletion of low-mass clusters over extended periods.",0.31,1.0,0.06349206349206349,0.05138339920948617,0.047619047619047616,0.023715415019762844
+What are the implications of the twisted deformations of Abelian and Jordanian types on the D=4 Lorentz and Poincare algebras?,"  We discussed quantum deformations of D=4 Lorentz and Poincare algebras. In
+the case of Poincare algebra it is shown that almost all classical r-matrices
+of S. Zakrzewski classification correspond to twisted deformations of Abelian
+and Jordanian types. A part of twists corresponding to the r-matrices of
+Zakrzewski classification are given in explicit form.
+",0704.0081,"The paper discusses quantum deformations of D=4 Lorentz and Poincare algebras, including the Poincare algebra P(3,1) and the Lorentz algebra o(3,1). It is shown that classical r-matrices of S. Zakrzewski's classification correspond to twisted deformations of Abelian and Jordanian types. These r-matrices lead to twisted deformations of the Poincare algebra P(3,1). 
+
+The implications of these twisted deformations are not explicitly stated, but the paper presents explicit formulas for the co-products, antipodes, and quantization corresponding to the r-matrix deformations. These formulas provide a basis for further analysis and applications in the study of quantum deformations and their impact on the structure and properties of the algebras.",0.37,0.24,0.057692307692307696,0.07547169811320754,0.057692307692307696,0.11320754716981132
+"What are the dynamical properties of bright solitons with a finite background in the F=1 spinor Bose-Einstein condensate, and how do they differ based on the classification into domain-wall (DW) type and phase-shift (PS) type solitons?","  We investigate dynamical properties of bright solitons with a finite
+background in the F=1 spinor Bose-Einstein condensate (BEC), based on an
+integrable spinor model which is equivalent to the matrix nonlinear
+Schr\""{o}dinger equation with a self-focusing nonlineality. We apply the
+inverse scattering method formulated for nonvanishing boundary conditions. The
+resulting soliton solutions can be regarded as a generalization of those under
+vanishing boundary conditions. One-soliton solutions are derived in an explicit
+manner. According to the behaviors at the infinity, they are classified into
+two kinds, domain-wall (DW) type and phase-shift (PS) type. The DW-type implies
+the ferromagnetic state with nonzero total spin and the PS-type implies the
+polar state, where the total spin amounts to zero. We also discuss two-soliton
+collisions. In particular, the spin-mixing phenomenon is confirmed in a
+collision involving the DW-type. The results are consistent with those of the
+previous studies for bright solitons under vanishing boundary conditions and
+dark solitons. As a result, we establish the robustness and the usefulness of
+the multiple matter-wave solitons in the spinor BECs.
+",0704.0082,"The dynamical properties of bright solitons with a finite background in the F=1 spinor Bose-Einstein condensate are investigated using an integrable spinor model with a self-focusing nonlinearity and the inverse scattering method under nonvanishing boundary conditions. 
+
+The solitons are classified into two types: domain-wall (DW) type and phase-shift (PS) type, depending on their behavior at infinity. The DW-type implies a ferromagnetic state with nonzero total spin, while the PS-type indicates a polar state with zero total spin. The DW-type solitons tend to take the ferromagnetic state due to inter-atomic ferromagnetic interactions. 
+
+The classification of solitons has implications for their spin states and collision behaviors. The DW-type solitons exhibit spin-switching during two-soliton collisions, while the PS-type solitons are in the polar state.",0.48,0.73,0.030303030303030304,0.04945054945054945,0.045454545454545456,0.03296703296703297
+How does the concept of dynamically evolving extra dimensions contribute to the acceleration of inflationary cosmologies generated by cosmological instantons?,"  The path integral over Euclidean geometries for the recently suggested
+density matrix of the Universe is shown to describe a microcanonical ensemble
+in quantum cosmology. This ensemble corresponds to a uniform (weight one)
+distribution in phase space of true physical variables, but in terms of the
+observable spacetime geometry it is peaked about complex saddle-points of the
+{\em Lorentzian} path integral. They are represented by the recently obtained
+cosmological instantons limited to a bounded range of the cosmological
+constant. Inflationary cosmologies generated by these instantons at late stages
+of expansion undergo acceleration whose low-energy scale can be attained within
+the concept of dynamically evolving extra dimensions. Thus, together with the
+bounded range of the early cosmological constant, this cosmological ensemble
+suggests the mechanism of constraining the landscape of string vacua and,
+simultaneously, a possible solution to the dark energy problem in the form of
+the quasi-equilibrium decay of the microcanonical state of the Universe.
+",0704.0083,"The concept of dynamically evolving extra dimensions contributes to the acceleration of inflationary cosmologies generated by cosmological instantons by suggesting a new quantum gravity scale. This scale, obtained from the upper bound of the instanton Λ-range, is given as Λmax = 3m^2 P /B, where ""m"" is the Planck mass and ""B"" is a parameter related to the inflationary scale. This new scale allows for the accommodation of the present-day acceleration of the universe, providing a possible solution to the dark energy problem.",0.38,0.75,0.024390243902439025,0.038461538461538464,0.024390243902439025,0.019230769230769232
+What is the relationship between the density blowup and the formation of close-packed clusters of particles in a freely cooling dilute granular gas?,"  We employ granular hydrodynamics to investigate a paradigmatic problem of
+clustering of particles in a freely cooling dilute granular gas. We consider
+large-scale hydrodynamic motions where the viscosity and heat conduction can be
+neglected, and one arrives at the equations of ideal gas dynamics with an
+additional term describing bulk energy losses due to inelastic collisions. We
+employ Lagrangian coordinates and derive a broad family of exact non-stationary
+analytical solutions that depend only on one spatial coordinate. These
+solutions exhibit a new type of singularity, where the gas density blows up in
+a finite time when starting from smooth initial conditions. The density blowups
+signal formation of close-packed clusters of particles. As the density blow-up
+time $t_c$ is approached, the maximum density exhibits a power law $\sim
+(t_c-t)^{-2}$. The velocity gradient blows up as $\sim - (t_c-t)^{-1}$ while
+the velocity itself remains continuous and develops a cusp (rather than a shock
+discontinuity) at the singularity. The gas temperature vanishes at the
+singularity, and the singularity follows the isobaric scenario: the gas
+pressure remains finite and approximately uniform in space and constant in time
+close to the singularity. An additional exact solution shows that the density
+blowup, of the same type, may coexist with an ""ordinary"" shock, at which the
+hydrodynamic fields are discontinuous but finite. We confirm stability of the
+exact solutions with respect to small one-dimensional perturbations by solving
+the ideal hydrodynamic equations numerically. Furthermore, numerical solutions
+show that the local features of the density blowup hold universally,
+independently of details of the initial and boundary conditions.
+",0704.0084,"The density blowup is a local process that occurs during the formation of close-packed clusters in a freely cooling dilute granular gas. The gas pressure remains approximately uniform and constant in a small area around the blowup point. This is known as the isobaric scenario, and it has important implications for understanding the clustering process. The exact solutions describing this phenomenon are supported by molecular dynamics simulations, providing valuable insights into the dynamics of granular gases and the formation of dense clusters.",0.41,1.1,0.07228915662650602,0.0622568093385214,0.012048192771084338,0.011673151750972763
+"What is the significance of the universality property of covariant field theory in space-time expanded around pp-wave backgrounds, particularly in the context of bosonic string theory?","  We discuss a universality property of any covariant field theory in
+space-time expanded around pp-wave backgrounds. According to this property the
+space-time lagrangian density evaluated on a restricted set of field
+configurations, called universal sector, turns out to be same around all the
+pp-waves, even off-shell, with same transverse space and same profiles for the
+background scalars. In this paper we restrict our discussion to tensorial
+fields only. In the context of bosonic string theory we consider on-shell
+pp-waves and argue that universality requires the existence of a universal
+sector of world-sheet operators whose correlation functions are insensitive to
+the pp-wave nature of the metric and the background gauge flux. Such results
+can also be reproduced using the world-sheet conformal field theory. We also
+study such pp-waves in non-polynomial closed string field theory (CSFT). In
+particular, we argue that for an off-shell pp-wave ansatz with flat transverse
+space and dilaton independent of transverse coordinates the field redefinition
+relating the low energy effective field theory and CSFT with all the massive
+modes integrated out is at most quadratic in fields. Because of this
+simplification it is expected that the off-shell pp-waves can be identified on
+the two sides. Furthermore, given the massless pp-wave field configurations, an
+iterative method for computing the higher massive modes using the CSFT
+equations of motion has been discussed. All our bosonic string theory analyses
+can be generalised to the common Neveu-Schwarz sector of superstrings.
+",0704.0085,"The universality property of covariant field theory in space-time expanded around pp-wave backgrounds is a crucial concept in the context of bosonic string theory. According to this property, there exists a ""universal sector"" where the space-time Lagrangian density evaluated on a specific set of field configurations remains the same across all pp-waves, regardless of whether they are on-shell or off-shell, as long as they share the same transverse space and background scalar profiles.
+
+In the context of bosonic string theory, this universality property has significant implications. It suggests that there should be a set of world-sheet operators in the theory whose correlation functions are unaffected by changes in the pp-wave background or the background gauge flux. This indicates a level of consistency and robustness in the theory, as certain physical quantities remain constant despite variations in the underlying parameters.
+
+Furthermore, the universality property has been generalized beyond the specific case of constant five-form Ramond-Ramond (RR) flux. It has been argued that this property applies to D-brane worldvolume actions, providing insights into open string tachyon condensation in RR backgrounds. The universality property also has implications for the world-sheet counterpart of string field theory in RR backgrounds, suggesting that a manifestly supersymmetric formalism like the pure spinor formalism could be used to study this aspect.",0.85,0.89,0.04,0.04296875,0.008888888888888889,0.01171875
+What is the main result of the functional limit theorem for $K_n(t)$ in the stochastic model of one-dimensional gas clustering?,"  We give a quantitative analysis of clustering in a stochastic model of
+one-dimensional gas. At time zero, the gas consists of $n$ identical particles
+that are randomly distributed on the real line and have zero initial speeds.
+Particles begin to move under the forces of mutual attraction. When particles
+collide, they stick together forming a new particle, called cluster, whose mass
+and speed are defined by the laws of conservation. We are interested in the
+asymptotic behavior of $K_n(t)$ as $n\to \infty$, where $K_n(t)$ denotes the
+number of clusters at time $t$ in the system with $n$ initial particles. Our
+main result is a functional limit theorem for $K_n(t)$. Its proof is based on
+the discovered localization property of the aggregation process, which states
+that the behavior of each particle is essentially defined by the motion of
+neighbor particles.
+",0704.0086,"The main result of the functional limit theorem for $K_n(t)$ in the stochastic model of one-dimensional gas clustering is a description of the asymptotic behavior of $K_n(t)$ as $n \to \infty$, where $K_n(t)$ denotes the number of clusters at time $t$ in the system with $n$ initial particles.",0.2,0.62,0.047619047619047616,0.09848484848484848,0.07142857142857142,0.030303030303030304
+What is the significance of the harmonic map $u$ in the context of the geometric boundaries of hyperbolic spaces $H^m$ and $H^n$?,"  Our main result in this paper is the following: Given $H^m, H^n$ hyperbolic
+spaces of dimensional $m$ and $n$ corresponding, and given a Holder function
+$f=(s^1,...,f^{n-1}):\partial H^m\to \partial H^n$ between geometric boundaries
+of $H^m$ and $H^n$. Then for each $\epsilon >0$ there exists a harmonic map
+$u:H^m\to H^n$ which is continuous up to the boundary (in the sense of
+Euclidean) and $u|_{\partial H^m}=(f^1,...,f^{n-1},\epsilon)$.
+",0704.0087,"The harmonic map $u: H^m \to H^n$ is significant because it provides a solution to the Dirichlet problem for hyperbolic spaces $H^m$ and $H^n$. Given the geometric boundaries $\partial H^m$ and $\partial H^n$, and a continuous map $f: \partial H^m \to \partial H^n$, the goal is to find a harmonic map $u$ that is continuous up to the boundary and takes the boundary value $f$. This problem is particularly interesting when considering the Dirichlet problem at infinity.",0.24,0.23,0.09836065573770492,0.041666666666666664,0.04918032786885246,0.125
+"What is the relationship between the spectral, energetical, and temporal characteristics of radiation in the presence of the photonic flame effect and the use of artificial opal on Cu plate at low temperatures?","  The results of the spectral, energetical and temporal characteristics of
+radiation in the presence of the photonic flame effect are presented.
+Artificial opal posed on Cu plate at the temperature of liquid nitrogen boiling
+point (77 K) being irradiated by nanosecond ruby laser pulse produces long-
+term luminiscence with a duration till ten seconds with a finely structured
+spectrum in the the antistocks part of the spectrum. Analogous visible
+luminescence manifesting time delay appeared in other samples of the artificial
+opals posed on the same plate. In the case of the opal infiltrated with
+different nonlinear liquids the threshold of the luminiscence is reduced and
+the spatial disribution of the bright emmiting area on the opal surface is
+being changed. In the case of the putting the frozen nonlinear liquids on the
+Cu plate long-term blue bright luminiscence took place in the frozen species of
+the liquids. Temporal characteristics of this luminiscence are nearly the same
+as in opal matrixes.
+",0704.0088,"The presence of a photonic flame effect, where opal crystals are placed on a Cu plate at liquid nitrogen temperatures, results in long-term luminescence when irradiated by a nanosecond ruby laser pulse. The temporal characteristics of this luminescence are similar to those observed in frozen nonlinear liquids on a Cu plate, producing bright blue luminescence. The photonic flame effect is influenced by the properties of photonic crystals, and the interference effects caused by the structure of the opal matrix can enhance the electromagnetic field, leading to the production of laser plasma, electron acceleration, and x-ray generation.",0.45,0.72,0.05102040816326531,0.0440251572327044,0.01020408163265306,0.018867924528301886
+How is the kernel estimator determined objectively during the calibration of an experimental setup for statistical modeling of physical laws?,"  Statistical modeling of experimental physical laws is based on the
+probability density function of measured variables. It is expressed by
+experimental data via a kernel estimator. The kernel is determined objectively
+by the scattering of data during calibration of experimental setup. A physical
+law, which relates measured variables, is optimally extracted from experimental
+data by the conditional average estimator. It is derived directly from the
+kernel estimator and corresponds to a general nonparametric regression. The
+proposed method is demonstrated by the modeling of a return map of noisy
+chaotic data. In this example, the nonparametric regression is used to predict
+a future value of chaotic time series from the present one. The mean predictor
+error is used in the definition of predictor quality, while the redundancy is
+expressed by the mean square distance between data points. Both statistics are
+used in a new definition of predictor cost function. From the minimum of the
+predictor cost function, a proper number of data in the model is estimated.
+",0704.0089,"The kernel estimator is determined objectively by the scattering of data during calibration of the experimental setup. This means that the kernel is influenced by the variation and distribution of the measured data points, rather than being arbitrarily chosen or assuming a specific width.",0.21,0.66,0.06818181818181818,0.06626506024096386,0.0,0.0
+How does the use of Real Options for Project Schedules (ROPS) and Trading in Risk Dimensions (TRD) algorithms contribute to the development of relative risk analysis among projects?,"  Real Options for Project Schedules (ROPS) has three recursive
+sampling/optimization shells. An outer Adaptive Simulated Annealing (ASA)
+optimization shell optimizes parameters of strategic Plans containing multiple
+Projects containing ordered Tasks. A middle shell samples probability
+distributions of durations of Tasks. An inner shell samples probability
+distributions of costs of Tasks. PATHTREE is used to develop options on
+schedules.. Algorithms used for Trading in Risk Dimensions (TRD) are applied to
+develop a relative risk analysis among projects.
+",0704.0090,"The Real Options for Project Schedules (ROPS) methodology, which includes Trading in Risk Dimensions (TRD) algorithms, offers a novel approach to developing relative risk analysis among projects. ROPS treats projects as options, employing Adaptive Simulated Annealing (ASA) optimization to explore strategic Plans with multiple Projects and ordered Tasks. The middle shell of ROPS samples probability distributions of task durations, while TRD algorithms facilitate a copula analysis, transforming project marginal Cumulative Probability Distributions (CPDs) into Gaussian spaces. This enables the calculation of covariances and correlations, allowing for a comprehensive risk assessment of projects with complex schedules, such as the Future Combat Systems (FCS) project for the US Army. By combining ROPS and TRD, project managers can make more informed decisions by quantifying and comparing risks across different projects.",0.79,0.47,0.047244094488188976,0.05194805194805195,0.07874015748031496,0.09090909090909091
+What are the implications of embedding countable groups into finitely generated groups with Kazhdan's property (T) and only two conjugacy classes?,"  We combine classical methods of combinatorial group theory with the theory of
+small cancellations over relatively hyperbolic groups to construct finitely
+generated torsion-free groups that have only finitely many classes of conjugate
+elements. Moreover, we present several results concerning embeddings into such
+groups.
+  As another application of these techniques, we prove that every countable
+group $C$ can be realized as a group of outer automorphisms of a group $N$,
+where $N$ is a finitely generated group having Kazhdan's property (T) and
+containing exactly two conjugacy classes.
+",0704.0091,"Embedding countable groups into finitely generated groups with Kazhdan's property (T) and only two conjugacy classes has several implications:
+
+1. The construction of finitely generated torsion-free groups: By combining classical methods of combinatorial group theory and small cancellation theory over relatively hyperbolic groups, the authors create finitely generated groups that are torsion-free and possess a finite number of conjugate element classes. This provides a novel approach to understanding and working with these unique group structures.
+
+2. Understanding outer automorphism groups: The study of outer automorphism groups, particularly those with Kazhdan's property (T), is advanced by proving that every countable group can be realized as a group of outer automorphisms of a finitely generated group with specific properties. This deepens our knowledge of group theory and the intricacies of outer automorphisms.
+
+3. Applications to other areas of mathematics: The techniques used in this context have been applied to other areas, such as understanding C*-algebraic quantum groups as noncommutative manifolds and their interactions with Connes' noncommutative geometry. This showcases the far-reaching implications of these mathematical concepts.
+
+4. Embedding theorems and their consequences: The paper includes embedding theorems that provide conditions under which a Hilbert C*-module can be embedded into a trivial module. This has implications for understanding the structure and properties of these modules, particularly when dealing with ergodic actions of compact groups.
+
+5. Equivariant embedding and Chern characters: The paper also discusses equivariant embedding, providing conditions for when a C*-algebra admits an equivariant embedding into a trivial module for a compact Lie group. Additionally, it explores the invariance of Chern characters in the context of quantum groups, specifically SUq(2).",1.0,0.41,0.05343511450381679,0.05952380952380952,0.04580152671755725,0.047619047619047616
+"What is the relationship between the energy density, chemical potential, and temperature in the recently proposed formulation of overlap fermions at finite density?","  We study a recently proposed formulation of overlap fermions at finite
+density. In particular we compute the energy density as a function of the
+chemical potential and the temperature. It is shown that overlap fermions with
+chemical potential reproduce the correct continuum behavior.
+",0704.0092,"The energy density of overlap fermions with chemical potential is found to approach the correct continuum behavior as a function of chemical potential and temperature. Specifically, the study indicates that the analytic continuation of the sign function does not introduce lattice artifacts and that the energy density is dependent on both the chemical potential µ and the temperature T.",0.24,0.2,0.05172413793103448,0.09302325581395349,0.0,0.0
+"What are some misconceptions regarding the role of phonons in the electronic self-energy effects seen in high-$T_c$ cuprate superconductors, and how do experimental evidences and simulations refute these arguments?","  Lattice contribution to the electronic self-energy in complex correlated
+oxides is a fascinating subject that has lately stimulated lively discussions.
+Expectations of electron-phonon self-energy effects for simpler materials, such
+as Pd and Al, have resulted in several misconceptions in strongly correlated
+oxides. Here we analyze a number of arguments claiming that phonons cannot be
+the origin of certain self-energy effects seen in high-$T_c$ cuprate
+superconductors via angle resolved photoemission experiments (ARPES), including
+the temperature dependence, doping dependence of the renormalization effects,
+the inter-band scattering in the bilayer systems, and impurity substitution. We
+show that in light of experimental evidences and detailed simulations, these
+arguments are not well founded.
+",0704.0093,"Some misconceptions regarding the role of phonons in the electronic self-energy effects observed in high-Tc cuprate superconductors include the belief that phonons cannot account for certain self-energy effects and the expectation that phonons should not have a strong doping dependence. 
+
+Experimental evidence and simulations refute these arguments by highlighting:
+
+- The presence of universal energy scales in all materials at all dopings, especially in the normal state of very low-temperature materials.
+- Strong inferred momentum dependence.
+- The existence of multiple bosonic mode couplings.
+- The sophisticated doping dependence of renormalization effects on the electronic self-energy, including observations of multiple bosonic mode couplings along the nodal direction and the influence of the c-axis screening effect on the coupling between electrons and c-axis phonons.
+- Temperature dependence: In conventional superconducting materials, the energy scale associated with superconductivity is well above Tc. However, in cuprates, these energy scales can be comparable, resulting in unique temperature dependence.
+
+Additionally, the paper discusses the role of magnetic-related modes and optical phonons in contributing to the renormalization effects, providing a comprehensive analysis of the available data and simulations to address criticisms against the phonon interpretation.",0.81,0.56,0.03626943005181347,0.061946902654867256,0.0,0.035398230088495575
+What are the constraints on the amount of dark matter in the merging bullet galaxy cluster based on classical Local Group timing arguments and potential models fitting the lensing data?,"  We present semi-analytical constraint on the amount of dark matter in the
+merging bullet galaxy cluster using the classical Local Group timing arguments.
+We consider particle orbits in potential models which fit the lensing data.
+{\it Marginally consistent} CDM models in Newtonian gravity are found with a
+total mass M_{CDM} = 1 x 10^{15}Msun of Cold DM: the bullet subhalo can move
+with V_{DM}=3000km/s, and the ""bullet"" X-ray gas can move with
+V_{gas}=4200km/s. These are nearly the {\it maximum speeds} that are
+accelerable by the gravity of two truncated CDM halos in a Hubble time even
+without the ram pressure. Consistency breaks down if one adopts higher end of
+the error bars for the bullet gas speed (5000-5400km/s), and the bullet gas
+would not be bound by the sub-cluster halo for the Hubble time. Models with
+V_{DM}~ 4500km/s ~ V_{gas} would invoke unrealistic large amount M_{CDM}=7x
+10^{15}Msun of CDM for a cluster containing only ~ 10^{14}Msun of gas. Our
+results are generalisable beyond General Relativity, e.g., a speed of
+$4500\kms$ is easily obtained in the relativistic MONDian lensing model of
+Angus et al. (2007). However, MONDian model with little hot dark matter
+$M_{HDM} \le 0.6\times 10^{15}\msun$ and CDM model with a small halo mass $\le
+1\times 10^{15}\msun$ are barely consistent with lensing and velocity data.
+",0704.0094,The amount of dark matter in the merging bullet galaxy cluster is constrained to be ≤ 1×1015M⊙ based on classical Local Group timing arguments and potential models fitting the lensing data.,0.19,0.88,0.034482758620689655,0.06701030927835051,0.034482758620689655,0.10309278350515463
+What is the geometric interpretation of the limiting compact set that large balls in a locally compact group with polynomial growth converge to after suitable renormalization?,"  We get asymptotics for the volume of large balls in an arbitrary locally
+compact group G with polynomial growth. This is done via a study of the
+geometry of G and a generalization of P. Pansu's thesis. In particular, we show
+that any such G is weakly commensurable to some simply connected solvable Lie
+group S, the Lie shadow of G. We also show that large balls in G have an
+asymptotic shape, i.e. after a suitable renormalization, they converge to a
+limiting compact set which can be interpreted geometrically. We then discuss
+the speed of convergence, treat some examples and give an application to
+ergodic theory. We also answer a question of Burago about left invariant
+metrics and recover some results of Stoll on the irrationality of growth series
+of nilpotent groups.
+",0704.0095,"The paper discusses the ""shape of large balls"" in the context of locally compact groups with polynomial growth. The specific geometric interpretation of the limiting compact set is not explicitly stated in the provided text, but it appears to be related to the ""Lie shadow"" of the group, which is a simply connected solvable Lie group. The paper also mentions the work of P. Pansu, who likely provides further insights into the geometric aspects.",0.36,0.6,0.0684931506849315,0.05384615384615385,0.0136986301369863,0.038461538461538464
+What are the implications of the different representations of a 248-dimensional Lie algebra on the solutions to the corresponding systems of ordinary differential equations?,"  In this note we present three representations of a 248-dimensional Lie
+algebra, namely the algebra of Lie point symmetries admitted by a system of
+five trivial ordinary differential equations each of order forty-four, that
+admitted by a system of seven trivial ordinary differential equations each of
+order twenty-eight and that admitted by one trivial ordinary differential
+equation of order two hundred and forty-four.
+",0704.0096,"The different representations of a 248-dimensional Lie algebra are related to the symmetries of systems of ordinary differential equations. In the given text, three representations of a 248-dimensional Lie algebra are discussed, each corresponding to a different system of ordinary differential equations. 
+
+The first representation is related to a system of five trivial ordinary differential equations, each of order forty-four. This system admits a 248-dimensional algebra of Lie point symmetries, which can be calculated using the formula: 52 + 5 * 44 + 3 = 248. 
+
+The second representation is associated with a system of seven trivial ordinary differential equations, each of order thirty-six. Similarly, this system also admits a 248-dimensional algebra of Lie point symmetries, calculated as: 7 * 36 + 7 + 3 = 248. 
+
+The third representation is connected to a single trivial ordinary differential equation of order two hundred and forty-four. This equation also possesses a 248-dimensional algebra of Lie point symmetries, which can be understood using the formula: 1 * 244 + 1 + 3 = 248. 
+
+The implications of these different representations on the solutions to the corresponding systems of ordinary differential equations are not explicitly stated in the provided text. However, we can make some inferences. 
+
+Each representation provides a different set of symmetry operators (Γ1, Γ2, Γ3, etc.) that leave the corresponding system of equations invariant. These symmetry operators can be used to simplify the process of finding solutions to the equations. In other words, the symmetries can reduce the complexity of solving the systems by providing additional constraints or relationships between the variables and parameters involved. 
+
+Additionally, the existence of these symmetries and their associated algebras suggests that there may be underlying structures or patterns within the solutions to these systems of equations. These structures could potentially provide insights into more efficient solution methods or reveal connections between seemingly unrelated mathematical concepts. 
+
+Furthermore, the fact that these different representations of the 248-dimensional Lie algebra correspond to systems with varying numbers of equations and orders suggests that there could be a deeper relationship between the dimensionality of the algebra and the properties of the differential equations. This relationship warrants further exploration and could lead to a better understanding of both the algebraic and analytical aspects of these systems. 
+
+In conclusion, while the specific implications for solving the corresponding systems of ordinary differential equations are not explicitly stated, the existence of different representations of the 248-dimensional Lie algebra and their associated symmetries provides valuable insights and potential avenues for further investigation in the field of differential equations and their algebraic structures.",1.16,0.22,0.03740648379052369,0.030303030303030304,0.0399002493765586,0.10606060606060606
+What role does representation theory play in the classification theory of conformal quantum field theory within the operator algebraic approach?,"  We review recent progress in operator algebraic approach to conformal quantum
+field theory. Our emphasis is on use of representation theory in classification
+theory. This is based on a series of joint works with R. Longo.
+",0704.0097,"Representation theory is emphasized in the classification theory of conformal quantum field theory within the operator algebraic approach. It aids in the classification of vertex operator algebras and plays a crucial role in the study of nets of factors, which are essential in understanding the physical information of the theory.",0.24,0.19,0.06,0.08571428571428572,0.0,0.02857142857142857
