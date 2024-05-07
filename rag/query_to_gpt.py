@@ -1,5 +1,6 @@
 from openai import OpenAI
-from hnsw_cosine import search_similar_abstracts,search_within_pdfs
+# if you want to run this file independently, you need to remove '.' from the hnsw_cosine import statements
+from .hnsw_cosine import search_similar_abstracts,search_within_pdfs
 import os
 import warnings
 import fitz  
@@ -21,7 +22,8 @@ def retrieved_texed(query):
     top_n_abstract = [sentence[0] for sentence in sentences_with_scores]
     selected_pdfs = [sentence[2] for sentence in sentences_with_scores]
 
-    print(selected_pdfs)
+    print("Selected PDF id's from first layer search(search on abstract level): ",selected_pdfs)
+    
     similar_paragraphs_in_pdfs = search_within_pdfs(query, selected_pdfs)
     message = ""
     for snippet, score, arxiv_id in similar_paragraphs_in_pdfs:
@@ -46,7 +48,7 @@ def query_to_gpt(query):
             temperature=0.2,
             seed=92,
         )
-    response_message = response.choices[0].message.content
+    response_message = "GPT response: " + response.choices[0].message.content
     return response_message
 
 
