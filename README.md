@@ -7,10 +7,12 @@ This repository contains the code and resources for the capstone project on the 
 
 1) Install required dependencies:
 
+```bash
 pip install -r requirements.txt
 
 2) Run start_rag.py, writing your question in the input window
 
+```bash
 python start_rag.py
 
 
