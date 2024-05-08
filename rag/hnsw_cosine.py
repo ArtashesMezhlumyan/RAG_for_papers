@@ -9,6 +9,7 @@ import warnings
 from urllib3.exceptions import InsecureRequestWarning
 from sentence_transformers import util
 import pandas as pd
+from pathlib import Path
 
 
 warnings.filterwarnings("ignore", category=InsecureRequestWarning)
@@ -18,7 +19,7 @@ warnings.filterwarnings("ignore", category=UserWarning)
 model = SentenceTransformer('multi-qa-MiniLM-L6-cos-v1')
 
 def search_similar_abstracts(query, k=3):
-    with open("../dataset/embeddings.pkl", "rb") as fIn:
+    with open(Path(__file__).parent / "../dataset/embeddings.pkl", "rb") as fIn:
         stored_data = pickle.load(fIn)
         stored_sentences = stored_data["sentences"]
         stored_embeddings = stored_data["embeddings"]
@@ -44,7 +45,7 @@ def search_similar_abstracts(query, k=3):
 
 
 def search_within_pdfs(query, selected_pdfs, k=10):
-    with open("../pdf_manipulations/pdf_paragraphs_embeddings.pkl", "rb") as fIn:
+    with open(Path(__file__).parent / "../pdf_manipulations/pdf_paragraphs_embeddings.pkl", "rb") as fIn:
         stored_data = pickle.load(fIn)
     returning_list = []
     for i in range(len(selected_pdfs)):
