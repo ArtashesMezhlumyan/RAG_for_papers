@@ -90,8 +90,8 @@ def search_within_pdfs(query, selected_pdfs, k=10):
 #     print("---")
 
 
-# start_time = time.time()
-# new_sentence = "My sister's leg broke"
+
+# new_sentence = "Tell me about nonlinear stochastic differential"
 # search_similar_abstracts = search_similar_abstracts(new_sentence, k=3)
 
 # print(search_similar_abstracts)
@@ -99,8 +99,5 @@ def search_within_pdfs(query, selected_pdfs, k=10):
 # # for i, sentence in enumerate(search_similar_abstracts):
 # #     print(f"{i+1}. {sentence}")
 
-# end_time = time.time()  # Records the end time
-# elapsed_time = end_time - start_time  # Calculates the elapsed time
 
-# print(f"The code ran for {elapsed_time} seconds.")
 
