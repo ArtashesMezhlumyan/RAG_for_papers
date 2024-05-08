@@ -1,6 +1,18 @@
-# Capstone Project: Retrieval Augmented Generation (RAG) for Scientific Papers
+# Capstone Project: Retrieval-Augmented Generation (RAG) System for Academic Papers
 
-This repository contains the code and resources for the capstone project on Retrieval Augmented Generation, focused on enhancing search capabilities and generating context-based outputs using large language models for scientific papers. This project is part of the Data Science program at [University Name].
+This repository contains the code and resources for the capstone project on the Retrieval-Augmented Generation (RAG) System for Academic Papers, focused on developing a new RAG strategy for academic paper retrieval and answer generation. This project is part of the Data Science program at the American University of Armenia.
+
+
+## Installation and Usage
+
+1) Install required dependencies:
+
+pip install -r requirements.txt
+
+2) Run start_rag.py, writing your question in the input window
+
+python start_rag.py
+
 
 ## Repository Structure
 
@@ -39,8 +51,4 @@ This repository is organized into the following directories:
 - **`analysis.ipynb`**: Notebook containing detailed analysis of the project outcomes, including evaluations of different LLMs, sample question generation, and more.
 - **`analysed_data`** and **`plots`**: Directories containing output data and visualizations from the analysis.
 
-## Installation and Usage
 
-1) Install required dependencies:
-
-pip install -r requirements.txt
