@@ -1,6 +1,8 @@
 # Capstone Project: Retrieval-Augmented Generation (RAG) System for Academic Papers
 
-This repository contains the code and resources for the capstone project on the Retrieval-Augmented Generation (RAG) System for Academic Papers, focused on developing a new RAG strategy for academic paper retrieval and answer generation. This project is part of the Data Science program at the American University of Armenia.
+This repository contains the code and resources for the capstone project on the Retrieval-Augmented Generation (RAG) System for Academic Papers, focused on developing a new RAG strategy for academic paper retrieval and answer generation. The system utilizes a 2-step vector search using the vector search with cosine similarity metric on an HNSW index on the paper’s abstracts and the papers itself to pass only relevant information to LLM; this enables enhanced data retrieval and contextually aware text generation. This report shows our achievements in implementing various system components, including document retrieval, search methods, text generation, and initial performance evaluation.
+
+This project is part of the Data Science program at the American University of Armenia.
 
 
 ## Installation and Usage
